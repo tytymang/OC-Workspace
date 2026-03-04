@@ -1,0 +1,1 @@
+﻿ = New-Object -ComObject Outlook.Application;  = .CreateItem(1); .Subject = " SCM 구축 협의\; .Start = \2026-02-27 15:00\; .Save()
