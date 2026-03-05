@@ -31,6 +31,15 @@
     - '모임' 등록 시에는 `$item.MeetingStatus = 1` 설정 필수.
 *   **인코딩 해결**: PowerShell 사용 시 반드시 최상단에 UTF-8 강제 설정 포함. 파일 저장 시에는 `Set-Content -Encoding Unicode` 또는 `[System.IO.File]::WriteAllLines`를 사용하여 Unicode BOM 형식을 유지할 것.
 
+## 📦 BACKUP & SYNC (백업 및 동기화 구조)
+*   **동기화 원칙**: 모든 작업 완료 시 또는 매시간(Cron)마다 GitHub(`OC-Workspace`) 저장소와 **자동 동기화 필수**. (별도 요청 없어도 실행)
+*   **저장소 구조 (GitHub 폴더 기준)**:
+    - `/memory_backup/`: `MEMORY.md` (장기 기억), `daily/` (일일 로그)
+    - `/skills_backup/`: `office-automation` 등 모든 스킬 파일 및 스크립트
+    - `/system_config_backup/`: `jobs.json`(스케줄), `device.json`(기기인증), `paired.json`(장치연결)
+*   **동기화 스크립트**: `C:\Users\307984\.openclaw\workspace\sync_memory.py` (Python 실행)
+*   **주의**: 동기화 실패는 중대 과실로 간주함. 실패 시 즉시 원인 파악 및 보고 필수.
+
 ## 📅 WORK LOG (주요 작업 기록)
 
 ### 2026-03-04 - 웹 브라우저 제어 원칙 재정립
