@@ -207,7 +207,7 @@
       "name": "Auto-sync Memory to GitHub",
       "enabled": true,
       "createdAtMs": 1772665569602,
-      "updatedAtMs": 1772759181132,
+      "updatedAtMs": 1772762778724,
       "schedule": {
         "everyMs": 3600000,
         "kind": "every",
@@ -223,11 +223,11 @@
         "mode": "none"
       },
       "state": {
-        "nextRunAtMs": 1772762769602,
-        "lastRunAtMs": 1772759169624,
+        "nextRunAtMs": 1772766369602,
+        "lastRunAtMs": 1772762769623,
         "lastStatus": "ok",
-        "lastDurationMs": 11508,
-        "runningAtMs": 1772762769617
+        "lastDurationMs": 9101,
+        "runningAtMs": 1772766369611
       }
     }
   ]
