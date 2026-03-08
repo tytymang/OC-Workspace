@@ -92,6 +92,7 @@ UTF-16 LE(BOM) 인코딩 확인 필수
 
 
 📝 LESSONS LEARNED (실패 기록)
+[LESSON] 2026-03-09 | 직원 검색 | 브라우저 팝업/단순 GAL 검색으로 인한 동명이인 오판 | 사번/조직도 검색 시 반드시 Active Directory(AD)를 사용하여 동명이인 여부를 교차 검증하고 정확히 보고할 것
 [LESSON] 2026-03-03 | 캘린더 | Outlook 한글 인코딩 오류로 '횜의'가 등록됨 | 유니코드 코드포인트 배열 조립 방식으로 한글 제목 생성 필수
 [LESSON] 2026-03-04 | 브라우저 | Chrome/Comet 혼용으로 제어 혼선 발생 | Comet(profile: "openclaw")을 기본값으로 사용, 개인 Chrome은 명시적 요청 시에만
 
