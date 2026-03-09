@@ -4,14 +4,18 @@ REM OpenClaw Dashboard & Gateway Launcher
 REM ===============================================
 
 echo ===============================================
-echo Starting OpenClaw Gateway Server (Port 18792)...
-echo A new command prompt window will open to show the Gateway logs.
+netstat -ano | find "LISTENING" | find ":18792" >nul
+if %ERRORLEVEL% equ 0 (
+    echo Gateway is already running! Skipping Gateway startup...
+) else (
+    echo Starting OpenClaw Gateway Server (Gemini 3.0 Flash) - Port 18792 ...
+    echo A new command prompt window will open to show the Gateway logs.
+    start "OpenClaw Gateway Logs" cmd /k "%APPDATA%\npm\openclaw.cmd gateway --port 18792"
+    echo.
+    echo Waiting 5 seconds for Gateway to initialize...
+    timeout /t 5 /nobreak >nul
+)
 echo ===============================================
-start "OpenClaw Gateway Logs" cmd /k "openclaw gateway --port 18792"
-
-echo.
-echo Waiting 5 seconds for Gateway to initialize...
-timeout /t 5 /nobreak >nul
 
 echo ===============================================
 echo Launching OpenClaw Dashboard...
