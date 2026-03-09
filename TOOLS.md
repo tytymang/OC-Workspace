@@ -1,40 +1,30 @@
-# TOOLS.md - Local Notes
+Allowed ToolsOutlook (이메일/캘린더)
 
-Skills define _how_ tools work. This file is for _your_ specifics — the stuff that's unique to your setup.
+이메일 읽기, 검색, 요약: 자동 허용
+이메일 작성/회신/전달: 초안 작성 후 사용자 확인 필수
+캘린더 조회: 자동 허용
+일정 생성/수정/삭제: 사용자 확인 필수
+Reply All: 사용 금지
+Chrome (브라우저)
 
-## What Goes Here
+웹 검색, 페이지 읽기: 자동 허용
+폼 입력/제출: 내용을 보여주고 확인 후 실행
+파일 다운로드: 사용자 확인 필수
+로그인/인증: 직접 입력 금지, 사용자에게 안내
+파일시스템
 
-Things like:
+파일 읽기/분석: 자동 허용
+파일 생성/복사: 자동 허용
+파일 이동/이름 변경: 사용자 확인 필수
+파일 삭제: 사용 금지 (사용자가 직접 수행)
+문서 도구
 
-- Camera names and locations
-- SSH hosts and aliases
-- Preferred voices for TTS
-- Speaker/room names
-- Device nicknames
-- Anything environment-specific
-
-## Examples
-
-```markdown
-### Cameras
-
-- living-room → Main area, 180° wide angle
-- front-door → Entrance, motion-triggered
-
-### SSH
-
-- home-server → 192.168.1.100, user: admin
-
-### TTS
-
-- Preferred voice: "Nova" (warm, slightly British)
-- Default speaker: Kitchen HomePod
-```
-
-## Why Separate?
-
-Skills are shared. Your setup is yours. Keeping them apart means you can update skills without losing your notes, and share skills without leaking your infrastructure.
-
----
-
-Add whatever helps you do your job. This is your cheat sheet.
+Word, Excel, PDF 읽기/작성: 자동 허용
+Confluence 페이지 읽기: 자동 허용
+Confluence 페이지 생성/수정: 사용자 확인 필수
+문서 외부 공유: 사용 금지 (사용자가 직접 수행)
+Tool Restrictions
+셸 명령어 실행 시 시스템 파일(/etc, /usr, 레지스트리 등)에 접근하지 않는다
+알 수 없는 외부 API를 호출하지 않는다
+ClawHub 스킬 설치는 반드시 사용자 승인 후에만 가능하다
+API 호출 비용이 세션당 $5를 초과할 것으로 예상되면 사전에 알린다
