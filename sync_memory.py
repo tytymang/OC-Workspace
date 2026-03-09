@@ -17,7 +17,7 @@ BACKUP_MAP = {
 
 def run_git(args):
     try:
-        result = subprocess.run(["git"] + args, cwd=WORKSPACE_DIR, capture_output=True, text=True, check=True)
+        result = subprocess.run(["git"] + args, cwd=WORKSPACE_DIR, capture_output=True, text=True, check=True, encoding="utf-8")
         return result.stdout
     except subprocess.CalledProcessError as e:
         print(f"Git Error: {e.stderr}")
