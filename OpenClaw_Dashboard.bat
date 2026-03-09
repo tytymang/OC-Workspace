@@ -24,17 +24,7 @@ echo ===============================================
 echo ===============================================
 echo Launching OpenClaw Dashboard in Chrome...
 echo ===============================================
-set CHROME_PATH=
-if exist "C:\Program Files\Google\Chrome\Application\chrome.exe" set CHROME_PATH="C:\Program Files\Google\Chrome\Application\chrome.exe"
-if exist "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" set CHROME_PATH="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
-if exist "%LOCALAPPDATA%\Google\Chrome\Application\chrome.exe" set CHROME_PATH="%LOCALAPPDATA%\Google\Chrome\Application\chrome.exe"
-
-if defined CHROME_PATH (
-    start "" %CHROME_PATH% "http://localhost:18792/?token=a06f59f3e119d52a2b6741bd290f440dc407bcb0931c6345"
-) else (
-    echo [WARNING] Chrome NOT FOUND. Falling back to default browser...
-    start "" "http://localhost:18792/?token=a06f59f3e119d52a2b6741bd290f440dc407bcb0931c6345"
-)
+start chrome "http://localhost:18792/?token=a06f59f3e119d52a2b6741bd290f440dc407bcb0931c6345"
 
 echo.
 echo Gateway is now running in its own window.
