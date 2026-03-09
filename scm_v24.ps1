@@ -1,1 +1,0 @@
-﻿=New-Object -ComObject Outlook.Application;=.CreateItem(1);.Subject='SCM';.Save()
