@@ -7,7 +7,7 @@ echo ===============================================
 netstat -ano | find "LISTENING" | find ":18792" >nul
 if "%ERRORLEVEL%" equ "0" goto gateway_running
 
-echo Starting OpenClaw Gateway Server (Gemini 2.5 Pro) - Port 18792 ...
+echo Starting OpenClaw Gateway Server (Gemini 3.1 Pro) - Port 18792 ...
 echo A new command prompt window will open to show the Gateway logs.
 start "OpenClaw Gateway Logs" run_gateway.bat
 echo.
