@@ -3,8 +3,8 @@
     "deviceId": "d66268fc81bea08ce32f6032f5e301ca8763efd905e4637181e5680ac535c461",
     "publicKey": "HHZzQln43klgrpaPiTbzLMFrKxvqjCd0moJtBpSpok0",
     "platform": "win32",
-    "clientId": "gateway-client",
-    "clientMode": "backend",
+    "clientId": "cli",
+    "clientMode": "probe",
     "role": "operator",
     "roles": [
       "operator"
@@ -12,7 +12,9 @@
     "scopes": [
       "operator.admin",
       "operator.approvals",
-      "operator.pairing"
+      "operator.pairing",
+      "operator.read",
+      "operator.write"
     ],
     "tokens": {
       "operator": {
@@ -28,8 +30,7 @@
       }
     },
     "createdAtMs": 1770345351238,
-    "approvedAtMs": 1770345351238,
-    "displayName": "agent"
+    "approvedAtMs": 1770345351238
   },
   "73d2bf2b0e68331b371723df6b6125198bca6378b4d2791a23deab11251778d5": {
     "deviceId": "73d2bf2b0e68331b371723df6b6125198bca6378b4d2791a23deab11251778d5",
@@ -304,7 +305,7 @@
           "operator.pairing"
         ],
         "createdAtMs": 1772610956869,
-        "lastUsedAtMs": 1773056713187
+        "lastUsedAtMs": 1773190589223
       }
     },
     "createdAtMs": 1772610956869,
@@ -335,7 +336,7 @@
           "operator.pairing"
         ],
         "createdAtMs": 1773048238065,
-        "lastUsedAtMs": 1773048240415
+        "lastUsedAtMs": 1773188488235
       }
     },
     "createdAtMs": 1773048238064,
