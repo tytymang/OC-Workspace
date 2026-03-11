@@ -4,7 +4,7 @@
     "publicKey": "HHZzQln43klgrpaPiTbzLMFrKxvqjCd0moJtBpSpok0",
     "platform": "win32",
     "clientId": "cli",
-    "clientMode": "probe",
+    "clientMode": "cli",
     "role": "operator",
     "roles": [
       "operator"
