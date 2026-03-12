@@ -20,12 +20,15 @@
   "agents": {
     "defaults": {
       "model": {
-        "primary": "google/gemini-3-flash-preview"
+        "primary": "google/gemini-3.1-pro-preview"
       },
       "imageModel": {
-        "primary": "google/gemini-3-flash-preview"
+        "primary": "google/gemini-3.1-pro-preview"
       },
       "models": {
+        "google/gemini-3.1-pro-preview": {
+          "alias": "gemini-3.1-pro"
+        },
         "google/gemini-3-pro-preview": {
           "alias": "gemini-pro"
         },
