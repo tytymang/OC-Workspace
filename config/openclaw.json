@@ -72,7 +72,9 @@
     "controlUi": {
       "allowedOrigins": [
         "chrome-extension://bfpnaggkihabdgbnhnngdfldkinncdf",
-        "chrome-extension://bfpnaggikhabdgbnhnngdfldkbinncdf"
+        "chrome-extension://bfpnaggikhabdgbnhnngdfldkbinncdf",
+        "chrome-extension://nmhbiifsnmhkdofcllgjhlnclnclnlcl",
+        "chrome-extension://capbkkbkaegdongnjjjoekgnmfeppknm"
       ]
     },
     "auth": {
