@@ -5,10 +5,10 @@
       "id": "3e351cee-2de9-4b19-9f32-09d6749b3776",
       "agentId": "main",
       "name": "토요일 출근 전날 알림 (3/14)",
-      "enabled": true,
+      "enabled": false,
       "deleteAfterRun": true,
       "createdAtMs": 1771826360791,
-      "updatedAtMs": 1771826360791,
+      "updatedAtMs": 1773439475045,
       "schedule": {
         "at": "2026-03-13T14:00:00.000Z",
         "kind": "at"
@@ -23,8 +23,13 @@
         "mode": "announce"
       },
       "state": {
-        "nextRunAtMs": 1773410400000,
-        "runningAtMs": 1773439414410
+        "lastRunAtMs": 1773439432365,
+        "lastRunStatus": "error",
+        "lastStatus": "error",
+        "lastDurationMs": 42680,
+        "lastError": "Channel is required (no configured channels detected). Set delivery.channel explicitly or use a main session with a previous channel.",
+        "lastDeliveryStatus": "unknown",
+        "consecutiveErrors": 1
       }
     },
     {
@@ -208,7 +213,7 @@
       "name": "Auto-sync Memory to GitHub",
       "enabled": true,
       "createdAtMs": 1772665569602,
-      "updatedAtMs": 1773396974397,
+      "updatedAtMs": 1773439432365,
       "schedule": {
         "everyMs": 3600000,
         "kind": "every",
@@ -224,15 +229,15 @@
         "mode": "none"
       },
       "state": {
-        "nextRunAtMs": 1773400553812,
-        "lastRunAtMs": 1773396953812,
+        "nextRunAtMs": 1773443014414,
+        "lastRunAtMs": 1773439414414,
         "lastStatus": "ok",
-        "lastDurationMs": 20585,
+        "lastDurationMs": 17951,
         "lastRunStatus": "ok",
         "lastDeliveryStatus": "not-delivered",
         "consecutiveErrors": 0,
         "lastDelivered": false,
-        "runningAtMs": 1773439414410
+        "runningAtMs": 1773443014432
       }
     }
   ]
