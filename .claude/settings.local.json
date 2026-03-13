@@ -1,7 +1,18 @@
 {
   "permissions": {
     "allow": [
-      "mcp__e9431821-d2e1-48dd-a589-1b8f9860d343__gcal_create_event"
+      "mcp__e9431821-d2e1-48dd-a589-1b8f9860d343__gcal_create_event",
+      "Bash(find C:/Users/307984/.openclaw/ -name *.db -o -name *.sqlite -o -name *.sqlite3)",
+      "Bash(find C:/Users/307984/.openclaw/ -name vector* -o -name embeddings* -o -name memory*)",
+      "Bash(dir \"C:\\\\Vibe Coding\\\\Openclaw\" /a)",
+      "Bash(powershell -Command \":*)",
+      "Bash(python3 -c \":*)",
+      "Bash(node -e \":*)",
+      "Bash(find C:/Users/307984/.openclaw -name *.json -not -path */sessions/* -not -path */workspace/* -not -path */canvas/* -not -path */logs/* -not -path */subagents/*)",
+      "Bash(cp \"C:/Users/307984/.openclaw/openclaw.json\" \"C:/Vibe Coding/Openclaw/backup/openclaw/openclaw.json\")",
+      "Bash(cp \"C:/Users/307984/.openclaw/cron/jobs.json\" \"C:/Vibe Coding/Openclaw/backup/openclaw/cron_jobs.json\")",
+      "Bash(cp \"C:/Users/307984/.openclaw/identity/device.json\" \"C:/Vibe Coding/Openclaw/backup/openclaw/identity_device.json\")",
+      "Bash(cp \"C:/Users/307984/.openclaw/agents/main/agent/auth-profiles.json\" \"C:/Vibe Coding/Openclaw/backup/openclaw/auth-profiles.json\")"
     ]
   }
 }
