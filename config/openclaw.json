@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "lastTouchedVersion": "2026.2.6-3",
+    "lastTouchedAt": "2026-03-04T04:51:34.408Z"
+  },
+  "wizard": {
+    "lastRunAt": "2026-02-10T22:41:34.324Z",
+    "lastRunVersion": "2026.2.6-3",
+    "lastRunCommand": "doctor",
+    "lastRunMode": "local"
+  },
+  "auth": {
+    "profiles": {
+      "google:default": {
+        "provider": "google",
+        "mode": "token"
+      }
+    }
+  },
+  "agents": {
+    "defaults": {
+      "model": {
+        "primary": "google/gemini-3-flash-preview"
+      },
+      "imageModel": {
+        "primary": "google/gemini-3-flash-preview"
+      },
+      "models": {
+        "google/gemini-3.1-pro-preview": {
+          "alias": "gemini-3.1-pro"
+        },
+        "google/gemini-3-pro-preview": {
+          "alias": "gemini-pro"
+        },
+        "google/gemini-2.5-pro": {
+          "alias": "gemini-2-pro"
+        },
+        "google/gemini-3-flash-preview": {
+          "alias": "gemini-flash"
+        }
+      },
+      "workspace": "C:\\Users\\307984\\.openclaw\\workspace",
+      "compaction": {
+        "mode": "safeguard"
+      },
+      "maxConcurrent": 4,
+      "subagents": {
+        "maxConcurrent": 8
+      }
+    }
+  },
+  "messages": {
+    "ackReactionScope": "group-mentions"
+  },
+  "commands": {
+    "native": "auto",
+    "nativeSkills": "auto"
+  },
+  "channels": {
+    "telegram": {
+      "enabled": false,
+      "dmPolicy": "pairing",
+      "botToken": "8562330941:AAEcktKVoVsNdwTFygjVTmdXNe8izAiPNIw",
+      "groupPolicy": "allowlist",
+      "streamMode": "partial"
+    }
+  },
+  "gateway": {
+    "port": 18792,
+    "mode": "local",
+    "bind": "loopback",
+    "controlUi": {
+      "allowedOrigins": [
+        "chrome-extension://bfpnaggkihabdgbnhnngdfldkinncdf",
+        "chrome-extension://bfpnaggikhabdgbnhnngdfldkbinncdf",
+        "chrome-extension://nmhbiifsnmhkdofcllgjhlnclnclnlcl",
+        "chrome-extension://capbkkbkaegdongnjjjoekgnmfeppknm"
+      ]
+    },
+    "auth": {
+      "mode": "token",
+      "token": "a06f59f3e119d52a2b6741bd290f440dc407bcb0931c6345"
+    },
+    "tailscale": {
+      "mode": "off",
+      "resetOnExit": false
+    }
+  },
+  "browser": {
+    "enabled": true
+  },
+  "skills": {
+    "install": {
+      "nodeManager": "npm"
+    }
+  },
+  "plugins": {
+    "entries": {
+      "telegram": {
+        "enabled": false
+      }
+    }
+  }
+}
