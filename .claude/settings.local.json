@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__e9431821-d2e1-48dd-a589-1b8f9860d343__gcal_create_event"
+    ]
+  }
+}
