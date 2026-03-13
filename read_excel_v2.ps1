@@ -1,6 +1,7 @@
 
 Add-Type -TypeDefinition @"
 using System;
+using System.IO;
 using System.Runtime.InteropServices;
 using Microsoft.Office.Interop.Excel;
 
@@ -15,7 +16,22 @@ public class ExcelReader {
         try {
             excel = new Application();
             wbs = excel.Workbooks;
-            wb = wbs.Open(@"C:\Users\307984\.openclaw\workspace\temp_attachments\2_AI.xlsx");
+            
+            string dir = @"C:\Users\307984\.openclaw\workspace\temp_attachments";
+            string fileName = "";
+            foreach(string f in Directory.GetFiles(dir, "*.xlsx")) {
+                if (f.Contains("2") && f.Contains("AI")) {
+                    fileName = f;
+                    break;
+                }
+            }
+
+            if (string.IsNullOrEmpty(fileName)) {
+                Console.WriteLine("FILE_NOT_FOUND");
+                return;
+            }
+
+            wb = wbs.Open(fileName);
             sheet = (Worksheet)wb.Sheets[1];
             range = sheet.UsedRange;
 
