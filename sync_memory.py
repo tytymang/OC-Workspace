@@ -67,8 +67,8 @@ def organize_and_sync():
     run_git(["add", "."])
     timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     run_git(["commit", "-m", f"Organized Sync: {timestamp}"])
-    run_git(["pull", "origin", "main"])
-    run_git(["push", "origin", "main"])
+    run_git(["pull", "origin", "master"])
+    run_git(["push", "origin", "master"])
     print("Sync Complete!")
 
 if __name__ == "__main__":
