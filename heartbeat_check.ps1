@@ -1,40 +1,40 @@
-$ErrorActionPreference = 'Stop'
-[Console]::OutputEncoding = [System.Text.Encoding]::UTF8
-try {
-    $outlook = New-Object -ComObject Outlook.Application
-    $namespace = $outlook.GetNamespace("MAPI")
-    
-    # 이메일 체크
-    $inbox = $namespace.GetDefaultFolder(6)
-    $unreadItems = $inbox.Items.Restrict("[UnRead] = true")
-    $newEmails = @()
-    foreach ($item in $unreadItems) {
-        $newEmails += [PSCustomObject]@{
-            Sender = $item.SenderName
-            Subject = $item.Subject
-            Received = $item.ReceivedTime.ToString("yyyy-MM-dd HH:mm")
-        }
-    }
+$ErrorActionPreference = "SilentlyContinue"
+$Outlook = New-Object -ComObject Outlook.Application
+$Namespace = $Outlook.GetNamespace("MAPI")
 
-    # 일정 체크 (향후 2시간)
-    $calendar = $namespace.GetDefaultFolder(9) # olFolderCalendar
-    $start = Get-Date
-    $end = $start.AddHours(2)
-    $filter = "[Start] >= '$($start.ToString("g"))' AND [Start] <= '$($end.ToString("g"))'"
-    $appointments = $calendar.Items.Restrict($filter)
-    $upcomingMeetings = @()
-    foreach ($appt in $appointments) {
-        $upcomingMeetings += [PSCustomObject]@{
-            Subject = $appt.Subject
-            Start = $appt.Start.ToString("yyyy-MM-dd HH:mm")
-            Location = $appt.Location
-        }
-    }
+# 1. Check Emails (Last 30 mins)
+$Inbox = $Namespace.GetDefaultFolder(6) # olFolderInbox
+$ThirtyMinsAgo = (Get-Date).AddMinutes(-30)
+$Filter = "[ReceivedTime] >= '$($ThirtyMinsAgo.ToString("g"))'"
+$RecentEmails = $Inbox.Items.Restrict($Filter)
 
-    @{
-        Emails = $newEmails
-        Meetings = $upcomingMeetings
-    } | ConvertTo-Json
-} catch {
-    Write-Output "ERROR: $($_.Exception.Message)"
+$VipEmails = @()
+foreach ($Mail in $RecentEmails) {
+    if ($Mail.Importance -eq 2 -or $Mail.SenderName -match "이정우|나여나") {
+        $VipEmails += "$($Mail.SenderName): $($Mail.Subject)"
+    }
 }
+
+# 2. Check Calendar (Next 2 hours)
+$Calendar = $Namespace.GetDefaultFolder(9) # olFolderCalendar
+$TwoHoursLater = (Get-Date).AddHours(2)
+$CalFilter = "[Start] >= '$((Get-Date).ToString("g"))' AND [Start] <= '$($TwoHoursLater.ToString("g"))'"
+$UpcomingEvents = $Calendar.Items.Restrict($CalFilter)
+$Events = @()
+foreach ($Event in $UpcomingEvents) {
+    $Events += "$($Event.Start.ToString("HH:mm")) - $($Event.Subject)"
+}
+
+# 3. Check Git Sync
+$GitStatus = git status --porcelain
+$SyncNeeded = $false
+if ($GitStatus) { $SyncNeeded = $true }
+
+# Output Results
+$Result = @{
+    VipEmails = $VipEmails
+    Events = $Events
+    SyncNeeded = $SyncNeeded
+}
+
+$Result | ConvertTo-Json

@@ -1,0 +1,642 @@
+Opening Excel: C:\Users\307984\.openclaw\workspace\temp_attachments\2본부_AI.xlsx
+
+Sheet: PKG 제조
+
+Sheet: Chip 제조
+
+Sheet: PKG개발
+
+Sheet: Chip개발
+
+Sheet: 설비&공정
+
+Sheet: PQ
+
+Sheet:  공통KPI(1)
+
+Sheet:  공통KPI(2)
+| 4. AI적용 - GT별 Weekly 기획 제출 필요 (매주 월요일 14시限 KST) - 접수 방법 추후 공지(Mail or ECM) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 1)AI:  |  |  |  |  |  |  |  |  |  |  | 2)시그나비오 |  |  |
+| ∙ 많은 시간 소요, 높은 코스트, 반복작업 중 AI적용할 업무 선택 |  |  |  |  |  |  |  |  |  |  | ∙ 해당 절차서 수 |  |  |
+| ∙ 병행 AI적용하는 사례를 조사 탐구 방법/ 업체 선정 |  |  |  |  |  |  |  |  |  |  | ∙ 업무 일치도 100% 일정 |  |  |
+| ∙ TFT 결성 적용 추진 시작 |  |  |  |  |  |  |  |  |  |  | ∙ 모델링 완료수 |  |  |
+|  |  |  |  |  |  |  |  |  |  |  | ∙ 마이닝 적용수 |  |  |
+| √ AI/시그나비오: 일정 계획 건차트 1장으로 작성. 대 일정 Action plan |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 1)AI:   |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| ITEM |  |  | TYPE |  1월  |  |  |  |  |  |  2월  |  |  |  |
+| 대구분 | 중구분 |  |  |  W1  |  W2  |  W3  |  W4  |  W5  | TTL |  W6  |  W7  |  W8  |  W9  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 2)시그나비오 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| ITEM |  |  | Unit | ‘25 | 26 | '26 |  |  |  |  1월  |  |  |  |
+|  |  |  |  |  |  | Q1 |  Q2  | Q3 | Q4 |  W1  |  W2  |  W3  |  W4  |
+| 업무에 주로 관련되는 절차서 명 |  |  | 제조(2) : 생산관리, 제조관리
+개발(10) : 제품개발(Chip/PKG/MD), 신뢰성시험운영, 부품인정, 분석, 단종, 변경관리, 품질보증, 사전제품품질계획
+품질(10) : 변경관리, 시정 및 예방조치, 품질보증, 자격인증관리, 통계적 공정관리, 리스크 관리, 부품인정,
+지속 개선 활동, 검사 업무, 계측장비 관리 |  |  |  |  |  |  |  |  |  |  |
+| 업무에 주로 관련되는 절차서 수 |  |  | 건 | 22 |  |  |  |  |  |  |  |  |  |
+| 실제와 절차서 99% 일치도 절차서 수 |  |  | 건 | 2 |  |  |  |  |  |  |  |  |  |
+| 모델링 완료 절차서 수 |  |  | 건 | 0 |  |  |  |  |  |  |  |  |  |
+| 마이닝 적용 완료 수 |  |  | 건 | 0 |  |  |  |  |  |  |  |  |  |
+| 시그나비오에 의해 LT타임보다 지연된 절차서 수 |  |  | 건 | 0 |  |  |  |  |  |  |  |  |  |
+| 시그나비오에 의해 Stop/Waring된 수 |  |  | 건 | 0 |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+
+Sheet: Chu
+4. AI적용 - GT별 Weekly 기획 제출 필요 (매주 월요일 14시限 KST) - 접수 방법 추후 공지(Mail or ECM) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+1)AI:  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ITEM |  |  | TYPE |  1월  |  |  |  |  |  |  2월  |  |  |  |  |
+대구분 | 중구분 | Task |  |  W1  |  W2  |  W3  |  W4  |  W5  | TTL |  W6  |  W7  |  W8  |  W9  | TTL |
+Production | AI 기반 교육
+(OP & Pro. Leader) | Standardization of Knowledge
+(SOP / Standards / OPL / Checklists / Video) | P |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | D |  |  |  |  |  |  |  |  |  |  |  |
+|  | Building an AI Training System
+(ChatGPT + Python + Visual Basic) | P |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | D |  |  |  |  |  |  |  |  |  |  |  |
+|  | Software Development | P |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | D |  |  |  |  |  |  |  |  |  |  |  |
+|  | Quiz & Automated Assessment | P |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | D |  |  |  |  |  |  |  |  |  |  |  |
+|  | Pilot → Measurement → Expansion | P |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | D |  |  |  |  |  |  |  |  |  |  |  |
+| Daily Dashboad AI
+(일일 보고서 및 생산 모니터링) | Daily Production KPI Definition & Dashboard Scope | P |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | D |  |  |  |  |  |  |  |  |  |  |  |
+|  | Standardization of Data Sources (MES / HR / Excel) | P |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | D |  |  |  |  |  |  |  |  |  |  |  |
+|  | Design of HMI Daily Production Dashboard | P |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | D |  |  |  |  |  |  |  |  |  |  |  |
+|  | AI Analysis & Daily Summary | P |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | D |  |  |  |  |  |  |  |  |  |  |  |
+|  | Warning & threshold KPI | P |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | D |  |  |  |  |  |  |  |  |  |  |  |
+|  | Performance Measurement & Tuning | P |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | D |  |  |  |  |  |  |  |  |  |  |  |
+Production Plan | PL & MOCVD selection based on SO specs, with monitoring and alert mechanisms for non-compliant MOCVD tools | Standardization of Data Sources (YMS & SAP) | P |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | D |  |  |  |  |  |  |  |  |  |  |  |
+|  | Define appropriate logic together with AI | P |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | D |  |  |  |  |  |  |  |  |  |  |  |
+|  | Create Python prompts together with AI | P |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | D |  |  |  |  |  |  |  |  |  |  |  |
+|  | Use AI to create HMI interfaces | P |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | D |  |  |  |  |  |  |  |  |  |  |  |
+|  | Performance Measurement & Tuning | P |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | D |  |  |  |  |  |  |  |  |  |  |  |
+|  | Mass Production | P |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | D |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+2)시그나비오 /Signavio |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ITEM |  | Unit | ‘25 | 26 | '26 |  |  |  |  1월
+Tháng 1  |  |  |  |  |  |
+|  |  |  |  | Q1 |  Q2  | Q3 | Q4 |  W1  |  W2  |  W3  |  W4  |  W5  | TTL |
+업무에 주로 관련되는 절차서 명
+Tên các quy trình/tài liệu quy trình liên quan chính đến công việc |  | VCOP-5 - Manufacturing Management  VSP-8 - Production Management VCI-CM-007 - Cleanroom and Smockroom  VCI-CC-625 - Tieu Chuan Van Hanh Xu Ly Lot Test VCI-CC-622 - Quan ly san pham lot test chip VCI-CC-620 - Quy trinh huy bo cac thiet bi luu tru VCI-CC-618 - Huong dan quan ly 5S
+|  |  |  |  |  |  |  |  |  |  |  |  |
+업무에 주로 관련되는 절차서 수
+Số lượng quy trình/tài liệu quy trình liên quan chính đến công việc |  | EA | 6 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+실제와 절차서 100% 일치도 절차서 수
+Số quy trình khớp 100% với thực tế vận hành |  | EA | 6 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+모델링 완료 절차서 수
+Số quy trình đã hoàn tất modeling |  | EA | 6 | 0.7 | 1 | 1 | 1 | 1 | 0.2 | 0.4 | 0.6 | 0.7 | 0.7 | 0.7 |
+마이닝 적용 완료 수
+Số quy trình đã hoàn tất áp dụng process mining |  | EA | 0 | 4 | 1 | 1 | 1 | 1 | 4 | 4 | 4 | 4 | 4 | 4 |
+시그바이오에 의해 LT타임보다 지연된 절차서 수
+Số quy trình bị chậm so với LT do Signavio  |  | EA | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+시그바이오에 의해 Stop/Waring된 수
+Số trường hợp bị Stop / Warning do Signavio  |  | EA | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+
+Sheet: 선
+4. AI적용 - GT별 Weekly 기획 제출 필요 (매주 월요일 14시限 KST) - 접수 방법 추후 공지(Mail or ECM) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+1)AI: 공정별 WORST 불량 시각화 및 실시간 파레토 구현 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ITEM |  |  | TYPE |  1월  |  |  |  |  |  |  2월  |  |  |  |  |
+대구분 | 중구분 |  |  |  W1  |  W2  |  W3  |  W4  |  W5  | TTL |  W6  |  W7  |  W8  |  W9  | TTL |
+공정 불량 분석 및
+WORST불량 시각화 | ① Define(정의) |  | P |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | D |  |  |  |  |  |  |  |  |  |  |  |
+| ② 데이터 정비/정합성 확보 |  | P |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | D |  |  |  |  |  |  |  |  |  |  |  |
+| ③ Analyze(분석) — AI/최적화 로직 설계 + 시뮬레이션 |  | P |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | D |  |  |  |  |  |  |  |  |  |  |  |
+| ④ 분석 자동화 구현 |  | P |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | D |  |  |  |  |  |  |  |  |  |  |  |
+| ⑤ Improve(개선) — 파일럿 운영(현장 적용) |  | P |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | D |  |  |  |  |  |  |  |  |  |  |  |
+| ⑥ 대시보드 구축
+Control(관리) — 운영 표준화/확산 준비 |  | P |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | D |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+2)시그나비오 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ITEM |  |  | Unit | ‘25 | 26 | '26 |  |  |  |  1월  |  |  |  |  |
+|  |  |  |  |  | Q1 |  Q2  | Q3 | Q4 |  W1  |  W2  |  W3  |  W4  |  W5  |
+업무에 주로 관련되는 절차서 명 |  |  | 생산관리 절차서 , 제조 관리 절차서  |  |  |  |  |  |  |  |  |  |  |  |
+업무에 주로 관련되는 절차서 수 |  |  | EA | 2 | 2 |  |  |  |  |  |  |  |  |  |
+실제와 절차서 100% 일치도 절차서 수 |  |  | EA | 0 |  |  |  |  |  |  |  |  |  |  |
+모델링 완료 절차서 수 |  |  | EA | 0 |  |  |  |  |  |  |  |  |  |  |
+마이닝 적용 완료 수 |  |  | EA | 0 |  |  |  |  |  |  |  |  |  |  |
+시그바이오에 의해 LT타임보다 지연된 절차서 수 |  |  | EA | 0 |  |  |  |  |  |  |  |  |  |  |
+시그바이오에 의해 Stop/Waring된 수 |  |  | EA | 0 |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+
+Sheet: Anh
+4. AI적용 - GT별 Weekly 기획 제출 필요 (매주 월요일 14시限 KST) - 접수 방법 추후 공지(Mail or ECM) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+1)AI:  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| ITEM |  |  | TYPE |  1월  |  |  |  |  |  |  2월  |  |  |  |
+| 대구분 | 중구분 |  |  |  W1  |  W2  |  W3  |  W4  |  W5  | TTL |  W6  |  W7  |  W8  |  W9  |
+| Tạo phần mềm đếm Counter PM của thiết bị
+장비의 PM 카운터를 계산하는 소프트웨어 개발 | Khảo sát File count của thiết bị | Nam | P |  |  |  |  |  |  |  |  |  |  |
+|  |  | Nam | D |  |  |  |  |  |  |  |  |  |  |
+|  | Tải phần mềm Python và Path setup dữ liệu | Nam | P |  |  |  |  |  |  |  |  |  |  |
+|  |  | Nam | D |  |  |  |  |  |  |  |  |  |  |
+|  | Prototype đọc file | Nam | P |  |  |  |  |  |  |  |  |  |  |
+|  |  | Nam | D |  |  |  |  |  |  |  |  |  |  |
+|  | Xử lý logic count | Nam | P |  |  |  |  |  |  |  |  |  |  |
+|  |  | Nam | D |  |  |  |  |  |  |  |  |  |  |
+|  | Xuất Excel + log | Nam | P |  |  |  |  |  |  |  |  |  |  |
+|  |  | Nam | D |  |  |  |  |  |  |  |  |  |  |
+|  | Tự động hóa nhiều máy | Nam | P |  |  |  |  |  |  |  |  |  |  |
+|  |  | Nam | D |  |  |  |  |  |  |  |  |  |  |
+|  | Đóng gói & tạo phần mềm  | Nam | P |  |  |  |  |  |  |  |  |  |  |
+|  |  | Nam | D |  |  |  |  |  |  |  |  |  |  |
+| Tạo Program tự động tính quán và quản lý MTBF/MTTR
+MTBF/MTTR을 자동으로 계산하고 관리하는 프로그램 개발 | Thiết kế & chuẩn hoá Knowledge Base (KB) cho Trouble/Manual (Data model + taxonomy + metadata) | Quang | P |  |  |  |  |  |  |  |  |  |  |
+|  |  | Quang | D |  |  |  |  |  |  |  |  |  |  |
+|  | Chuẩn hoá định dạng Log/Alarm (Log Normalization & Mapping Spec) | Quang | P |  |  |  |  |  |  |  |  |  |  |
+|  |  | Quang | D |  |  |  |  |  |  |  |  |  |  |
+|  | PoC Trouble Chatbot (RAG)
+Assistant truy vấn tri thức | Quang | P |  |  |  |  |  |  |  |  |  |  |
+|  |  | Quang | D |  |  |  |  |  |  |  |  |  |  |
+|  | Case-Based Reasoning (CBR): Gợi ý xử lý theo “case tương tự” (Semantic retrieval + similarity ranking) | Quang | P |  |  |  |  |  |  |  |  |  |  |
+|  |  | Quang | D |  |  |  |  |  |  |  |  |  |  |
+|  | Tự động hoá tạo Work Instruction / Checklist (Template-driven Generation) | Quang | P |  |  |  |  |  |  |  |  |  |  |
+|  |  | Quang | D |  |  |  |  |  |  |  |  |  |  |
+|  | Pilot tại hiện trường + Closed-loop cải tiến (UAT/Validation + KPI tracking) | Quang | P |  |  |  |  |  |  |  |  |  |  |
+|  |  | Quang | D |  |  |  |  |  |  |  |  |  |  |
+|  | Scale-up đa thiết bị (Rollout & Governance) (ưu tiên công đoạn chính) | Quang | P |  |  |  |  |  |  |  |  |  |  |
+|  |  | Quang | D |  |  |  |  |  |  |  |  |  |  |
+|  | Chuẩn hoá & ban hành SOP/Manual chính thức (Standardization & Release) | Quang | P |  |  |  |  |  |  |  |  |  |  |
+|  |  | Quang | D |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+2)시그나비오 (Signavio) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ITEM |  | PIC | Unit | ‘25 | 26 | '26 |  |  |  |  1월
+Tháng 1  |  |  |  |  |
+|  |  |  |  |  | Q1 |  Q2  | Q3 | Q4 |  W1  |  W2  |  W3  |  W4  |  W5  |
+업무에 주로 관련되는 절차서 명 |  | Anh | 공정별설비유지보수가이드 / 설비관리절차서 / 체크시트관리 |  |  |  |  |  |  |  |  |  |  |  |
+업무에 주로 관련되는 절차서 수 |  | Anh | EA | 45 |  |  |  |  |  |  |  |  |  |  |
+실제와 절차서 99% 일치도 절차서 수 |  | Anh | EA | 0 |  |  |  |  |  |  |  |  |  |  |
+모델링 완료 절차서 수 |  | Anh | EA | 0 |  |  |  |  |  |  |  |  |  |  |
+마이닝 적용 완료 수 |  | Anh | EA | 0 |  |  |  |  |  |  |  |  |  |  |
+시그바이오에 의해 LT타임보다 지연된 절차서 수 |  | Anh | EA | 0 |  |  |  |  |  |  |  |  |  |  |
+시그바이오에 의해 Stop/Waring된 수 |  | Anh | EA | 0 |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+
+Sheet: 강
+4. AI적용 - GT별 Weekly 기획 제출 필요 (매주 월요일 14시限 KST) - 접수 방법 추후 공지(Mail or ECM) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+1)AI:  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ITEM |  |  | TYPE |  1월  |  |  |  |  |  |  2월  |  |  |  |  |
+대구분 | 중구분 |  |  |  W1  |  W2  |  W3  |  W4  |  W5  | TTL |  W6  |  W7  |  W8  |  W9  | TTL |
+Automatic Optimization | Router 점검
+자동화 |  | P |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | D |  |  |  |  |  |  |  |  |  |  |  |
+Automatic
+Processing Data | Probing data
+정리 자동화 |  | P |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | D |  |  |  |  |  |  |  |  |  |  |  |
+| 신뢰성 raw data
+정리 자동화 |  | P |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | D |  |  |  |  |  |  |  |  |  |  |  |
+| CAS 측정 data
+비교 정리 자동화 |  | P |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | D |  |  |  |  |  |  |  |  |  |  |  |
+| Re-probing less
+분류 Bin 생성 자동화 |  | P |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | D |  |  |  |  |  |  |  |  |  |  |  |
+Automatic make report  | Meeting → AI
+회의록 작성 시간 단축 |  | P |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | D |  |  |  |  |  |  |  |  |  |  |  |
+| Email → A/I
+메일 작성 시간 단축 및 표준 포맷 적용 |  | P |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | D |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+2)시그나비오 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ITEM |  |  | Unit | ‘25 | 26 | '26 |  |  |  |  1월  |  |  |  |  |
+|  |  |  |  |  | Q1 |  Q2  | Q3 | Q4 |  W1  |  W2  |  W3  |  W4  |  W5  |
+업무에 주로 관련되는 절차서 명 |  |  | 제품개발 Process/ 신뢰성 시험 운영/ 부품인정/ 변경 관리/ 품질보증/ 분석 절차서 |  |  |  |  |  |  |  |  |  |  |  |
+업무에 주로 관련되는 절차서 수 |  |  | EA | 6 | 6 | 6 |  |  |  |  |  |  |  |  |
+실제와 절차서 99% 일치도 절차서 수 |  |  | EA | 0 | 2 | 2 |  |  |  |  |  |  |  |  |
+모델링 완료 절차서 수 |  |  | EA | 0 | 1 | 1 |  |  |  |  |  |  |  |  |
+마이닝 적용 완료 수 |  |  | EA | 0 | 0 | 0 |  |  |  |  |  |  |  |  |
+시그바이오에 의해 LT타임보다 지연된 절차서 수 |  |  | EA | 0 | 0 | 0 |  |  |  |  |  |  |  |  |
+시그바이오에 의해 Stop/Waring된 수 |  |  | EA | 0 | 0 | 0 |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+
+Sheet: 이
+√ AI/시그나비오: 일정 계획 건차트 1장으로 작성. 대 일정 Action plan |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+1)AI:  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ITEM |  | TYPE |  1월  |  |  |  |  |  |  2월  |  |  |  |  |  3월  |
+대구분 | 중구분 |  |  W1  |  W2  |  W3  |  W4  |  W5  | TTL |  W6  |  W7  |  W8  |  W9  | TTL |  W10  |
+AI시스템 구축
+
+라인 재공 및 모델 체인지 관리 | 1.아이디어 도출 및 전체 요구사항 정의 | P |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | D |  |  |  |  |  |  |  |  |  |  |  |  |
+| 2. 데이터 표준화 및 계산 로직 정립 | P |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | D |  |  |  |  |  |  |  |  |  |  |  |  |
+| 3. 모델 설계 및 WIP / Movement
+/ Reticle Change 계산 룰 정의 | P |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | D |  |  |  |  |  |  |  |  |  |  |  |  |
+| 4. Code: Module WIP | P |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | D |  |  |  |  |  |  |  |  |  |  |  |  |
+| 5. Code: Module Movement | P |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | D |  |  |  |  |  |  |  |  |  |  |  |  |
+| 6. Code: Module Reticle Change Time | P |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | D |  |  |  |  |  |  |  |  |  |  |  |  |
+| 7. Chart Total Report  | P |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | D |  |  |  |  |  |  |  |  |  |  |  |  |
+| 8. 종합 테스트 - 수정 - 안정화 | P |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | D |  |  |  |  |  |  |  |  |  |  |  |  |
+| 9. 개발 완료 및 현업 적용 | P |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | D |  |  |  |  |  |  |  |  |  |  |  |  |
+AI시스템 구축
+
+변경점 관리 | 1. 시스템 초기화 및 설계 | P |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | D |  |  |  |  |  |  |  |  |  |  |  |  |
+| 2. 변경 관리 Backend 개발 (API, 이력, 승인) | P |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | D |  |  |  |  |  |  |  |  |  |  |  |  |
+| 3. Frontend 및 Dashboard 개발 (입력 Form 및 리포트) | P |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | D |  |  |  |  |  |  |  |  |  |  |  |  |
+| 4. AI 엔진 개발 (Rule + 이상 탐지) | P |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | D |  |  |  |  |  |  |  |  |  |  |  |  |
+| 5. Excel 데이터 Import 및 정제 | P |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | D |  |  |  |  |  |  |  |  |  |  |  |  |
+| 6. AI 튜닝 및 최적화 | P |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | D |  |  |  |  |  |  |  |  |  |  |  |  |
+| 7. UAT 및 FAB 사용자 교육 | P |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | D |  |  |  |  |  |  |  |  |  |  |  |  |
+| 8. SOP 정립 및 Go-live (Excel 사용 중단) | P |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | D |  |  |  |  |  |  |  |  |  |  |  |  |
+AI시스템 구축
+
+측정 Calibration | 1. 아이디어 도출 | P |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | D |  |  |  |  |  |  |  |  |  |  |  |  |
+| 2. 데이터 입력(Input) 요구사항 정의 | P |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | D |  |  |  |  |  |  |  |  |  |  |  |  |
+| 3. Calibration 알고리즘 설계 | P |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | D |  |  |  |  |  |  |  |  |  |  |  |  |
+| 4. 데이터 출력(Output) 요구사항 정의 | P |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | D |  |  |  |  |  |  |  |  |  |  |  |  |
+| 5. 애플리케이션 기본 UI 구성 | P |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | D |  |  |  |  |  |  |  |  |  |  |  |  |
+
+
+Sheet: 박,채,송
+4. AI적용 - GT별 Weekly 기획 제출 필요 (매주 월요일 14시限 KST) - 접수 방법 추후 공지(Mail or ECM) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+1)AI:  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+1)AI:  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ITEM |  | TYPE |  1월  |  |  |  |  |  |  2월  |  |  |  |  |  3월  |
+대구분 | 중구분 |  |  W1  |  W2  |  W3  |  W4  |  W5  | TTL |  W6  |  W7  |  W8  |  W9  | TTL |  W10  |
+Data 자동 분석 | 데이터 형식 생성, 코딩 | P |  |  |  |  |  |  |  |  |  |  |  |  |
+1. 측정 data 분석 |  | D |  |  |  |  |  |  |  |  |  |  |  |  |
+2. 신뢰성 data 분석 | 시험 평가 및 디버깅 | P |  |  |  |  |  |  |  |  |  |  |  |  |
+3. 형광체 농도 계산 |  | D |  |  |  |  |  |  |  |  |  |  |  |  |
+| 최종 데이터 형식
+및 명령 생성 | P |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | D |  |  |  |  |  |  |  |  |  |  |  |  |
+| 모든 팀을 위한 교육 | P |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | D |  |  |  |  |  |  |  |  |  |  |  |  |
+| 실 사용 적용 | P |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | D |  |  |  |  |  |  |  |  |  |  |  |  |
+4. RoHS 및 MSDS
+사전 검토 | RoHS 및
+MSDS 요청 | P |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | D |  |  |  |  |  |  |  |  |  |  |  |  |
+| AI RoHS 및
+MSDS 검토 | P |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | D |  |  |  |  |  |  |  |  |  |  |  |  |
+| 문제점 여부 확인
+& 개선 | P |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | D |  |  |  |  |  |  |  |  |  |  |  |  |
+| AI RoHS 및
+MSDS 재검토 | P |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | D |  |  |  |  |  |  |  |  |  |  |  |  |
+| QA팀 제출 확인(컨펌) | P |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | D |  |  |  |  |  |  |  |  |  |  |  |  |
+| RoHS 및 MSDS AI 적용 | P |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | D |  |  |  |  |  |  |  |  |  |  |  |  |
+5. 고객 스펙트럼
+요청 AI 작성 제출 | 샘플 제작 | P |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | D |  |  |  |  |  |  |  |  |  |  |  |  |
+| 샘플 스펙트럼 측정 | P |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | D |  |  |  |  |  |  |  |  |  |  |  |  |
+| 스펙트럼
+라이브러리 구축 | P |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | D |  |  |  |  |  |  |  |  |  |  |  |  |
+| AI 학습용
+데이터 입력 | P |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | D |  |  |  |  |  |  |  |  |  |  |  |  |
+| AI 스펙트럼
+가이드 입력 | P |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | D |  |  |  |  |  |  |  |  |  |  |  |  |
+| AI 분석 결과 제공 | P |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | D |  |  |  |  |  |  |  |  |  |  |  |  |
+| 시뮬레이션 검증 | P |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | D |  |  |  |  |  |  |  |  |  |  |  |  |
+| CIE 스펙트럼
+시뮬레이션 | P |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | D |  |  |  |  |  |  |  |  |  |  |  |  |
+2)시그나비오 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ITEM |  | Unit | ‘25 | 26 | '26 |  |  |  |  1월  |  |  |  |  |  |
+|  |  |  |  | Q1 |  Q2  | Q3 | Q4 |  W1  |  W2  |  W3  |  W4  |  W5  | TTL |
+업무에 주로 관련되는 절차서 명 |  | 제품개발(PKG), 제품개발(모듈), 단종, 분석, 부품인정, 변경관리, 품질보증, 사전제품품질계획 |  |  |  |  |  |  |  |  |  |  |  |  |
+업무에 주로 관련되는 절차서 수 |  | EA | 5 | 8 | 8 |  |  |  |  |  |  |  |  | 8 |
+실제와 절차서 100% 일치도 절차서 수 |  | EA | 0 | 5 | 5 |  |  |  |  |  |  |  |  | 5 |
+
+
+Sheet: 김
+|  | Triển khai AI
+AI를 전개하다 | P |  |  |  |  |  |  |  |  |  |  |  |
+
+Sheet: Khai
+| 4. AI적용 - GT별 Weekly 기획 제출 필요 (매주 월요일 14시限 KST) - 접수 방법 추후 공지(Mail or ECM) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 1)AI:  |  |  |  |  |  |  |  |  |  |  | 2)시그나비오 |  |  |
+| ∙ 많은 시간 소요, 높은 코스트, 반복작업 중 AI적용할 업무 선택 |  |  |  |  |  |  |  |  |  |  | ∙ 해당 절차서 수 |  |  |
+| ∙ 병행 AI적용하는 사례를 조사 탐구 방법/ 업체 선정 |  |  |  |  |  |  |  |  |  |  | ∙ 업무 일치도 100% 일정 |  |  |
+| ∙ TFT 결성 적용 추진 시작 |  |  |  |  |  |  |  |  |  |  | ∙ 모델링 완료수 |  |  |
+|  |  |  |  |  |  |  |  |  |  |  | ∙ 마이닝 적용수 |  |  |
+| √ AI/시그나비오: 일정 계획 건차트 1장으로 작성. 대 일정 Action plan |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 1)AI:  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| ITEM |  |  |  |  |  |  |  |  |  |  |  |  | TYPE |
+| 대구분 | 중구분 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Tạo phần mềm đếm Counter PM của thiết bị
+장비의 PM 카운터를 계산하는 소프트웨어 개발 | Device file count analysis |  |  |  |  |  |  |  |  |  |  | Nam | P |
+|  |  |  |  |  |  |  |  |  |  |  |  | Nam | D |
+|  | Setting application software, build the software, and set up the data paths |  |  |  |  |  |  |  |  |  |  | Nam | P |
+|  |  |  |  |  |  |  |  |  |  |  |  | Nam | D |
+|  | Prototype for file reading |  |  |  |  |  |  |  |  |  |  | Nam | P |
+|  |  |  |  |  |  |  |  |  |  |  |  | Nam | D |
+|  | Processing count logic |  |  |  |  |  |  |  |  |  |  | Nam | P |
+|  |  |  |  |  |  |  |  |  |  |  |  | Nam | D |
+|  | Pre-running test on the a machine |  |  |  |  |  |  |  |  |  |  | Nam | P |
+|  |  |  |  |  |  |  |  |  |  |  |  | Nam | D |
+|  | Apply extensions for all machine of process |  |  |  |  |  |  |  |  |  |  | Nam | P |
+|  |  |  |  |  |  |  |  |  |  |  |  | Nam | D |
+|  | Package the solution for convenient use across multiple devices |  |  |  |  |  |  |  |  |  |  | Nam | P |
+|  |  |  |  |  |  |  |  |  |  |  |  | Nam | D |
+| Tạo phần mềm tự động lấy counter alarm thiết bị Prober
+프로버(Prober) 장비의 알람 카운터를 자동으로 수집하는 소프트웨어를 개발한다. | Identify the alarm data source (interface) |  |  |  |  |  |  |  |  |  |  | Tuyen | P |
+|  |  |  |  |  |  |  |  |  |  |  |  | Tuyen | D |
+|  | Define the “counter” requirements and counting rules |  |  |  |  |  |  |  |  |  |  | Tuyen | P |
+|  |  |  |  |  |  |  |  |  |  |  |  | Tuyen | D |
+|  | Design the standardized data model |  |  |  |  |  |  |  |  |  |  | Tuyen | P |
+|  |  |  |  |  |  |  |  |  |  |  |  | Tuyen | D |
+|  | Develop the Collector module (data acquisition) |  |  |  |  |  |  |  |  |  |  | Tuyen | P |
+|  |  |  |  |  |  |  |  |  |  |  |  | Tuyen | D |
+|  | Develop the Collector module (data acquisition) |  |  |  |  |  |  |  |  |  |  | Tuyen | P |
+|  |  |  |  |  |  |  |  |  |  |  |  | Tuyen | D |
+|  | Parse and validate the data |  |  |  |  |  |  |  |  |  |  | Tuyen | P |
+|  |  |  |  |  |  |  |  |  |  |  |  | Tuyen | D |
+|  | Pre-running test on the a machine |  |  |  |  |  |  |  |  |  |  | Tuyen | P |
+|  |  |  |  |  |  |  |  |  |  |  |  | Tuyen | D |
+|  | Apply extensions for all machine of process |  |  |  |  |  |  |  |  |  |  | Tuyen | P |
+|  |  |  |  |  |  |  |  |  |  |  |  | Tuyen | D |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 2)시그나비오 (Signavio) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| ITEM |  | PIC | Unit | ‘25 | 26 | '26 |  |  |  |  1월  |  |  |  |
+|  |  |  |  |  |  | Q1 |  Q2  | Q3 | Q4 |  W1  |  W2  |  W3  |  W4  |
+| 업무에 주로 관련되는 절차서 명 |  | Khai | 공정별설비유지보수가이드 / 설비관리절차서 / 체크시트관리 |  |  |  |  |  |  |  |  |  |  |
+| 업무에 주로 관련되는 절차서 수 |  | Khai | EA | 37 |  |  |  |  |  | 37 | 37 | 37 | 37 |
+| 실제와 절차서 99% 일치도 절차서 수 |  | Khai | EA | 0 |  |  |  |  |  | 0 | 0 | 0 | 0 |
+| 모델링 완료 절차서 수 |  | Khai | EA | 0 |  |  |  |  |  | 0 | 0 | 0 | 0 |
+
+
+Sheet: 공통KPI_1230
+4. AI적용 - GT별 Weekly 기획 제출 필요 (매주 월요일 14시限 KST) - 접수 방법 추후 공지(Mail or ECM) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+1)AI:  |  |  |  |  |  |  |  |  |  |  | 2)시그나비오 |  |  |  |
+∙ 많은 시간 소요, 높은 코스트, 반복작업 중 AI적용할 업무 선택 |  |  |  |  |  |  |  |  |  |  | ∙ 해당 절차서 수 |  |  |  |
+∙ 병행 AI적용하는 사례를 조사 탐구 방법/ 업체 선정 |  |  |  |  |  |  |  |  |  |  | ∙ 업무 일치도 100% 일정 |  |  |  |
+∙ TFT 결성 적용 추진 시작 |  |  |  |  |  |  |  |  |  |  | ∙ 모델링 완료수 |  |  |  |
+|  |  |  |  |  |  |  |  |  |  | ∙ 마이닝 적용수 |  |  |  |
+√ AI/시그나비오: 일정 계획 건차트 1장으로 작성. 대 일정 Action plan |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+--- PPT FILES ---
+
+
+Opening PPT: C:\Users\307984\.openclaw\workspace\temp_attachments\AI .pptx
+Opening PPT: C:\Users\307984\.openclaw\workspace\temp_attachments\AI .pptx
+
+Slide 1
+- AI
+
+Slide 2
+- AI
+
+Slide 3
+- AI
+
+Slide 4
+- AI
+
+Slide 5
+- AI
+
+Slide 6
+- AI
+
+Slide 7
+- AI
+
+Slide 8
+- AI
+
+Slide 9
+- AI
+
+Slide 10
+- AI
+
+Slide 11
+- AI
+
+Slide 12
+- AI
+
+Slide 13
+- Ⅲ. KPI_실적_AI 추진 과제
+
+Slide 14
+- Ⅲ. KPI_실적_AI 추진 과제
+
+Slide 15
+- Ⅲ. KPI_실적_AI 추진 과제
+
+Slide 16
+- Ⅲ. KPI_실적_AI 추진 과제
+
+Slide 17
+
+Slide 18
+- Ⅲ. KPI_ AI활용 Action A/I
+- AI와 논의를 통한  업로드 양식 설정
+- 내부 F/B개선점
+- 지역별 고객 List-up
+- CRM현황 학습  TW팀 대표 진행
+- 고객인별 Activity학습  TW팀 대표로 진행
+- 고객인별 Mail성향 학습  TW팀 대표로 진행
+- 고객인별 개인신상 학습  TW팀 대표로 진행
+- 고객인별 개인신상 학습
+- 내부 대상 인력 선정   (진행X)
+- 내부인력 신상 및 성향 학습
+- 내부 메일 발송
+- 내부F/B확인
+- SSC우호적 고객 메일 발송
+- 목적 : 고객에게 발송되는 간단한 메일도 고객 인별,성향 분석을 통한 고객 맞춤형 메일 발송으로 신뢰도 ↑         Q1 0%, Q2 4.2% 업무 개선 효과 있을 것으로 기대함.(월 평균 3,500건 Mail발송)
+- IT WEST GT_이용혁
+- 계산 방법 20명*4주*52시간 = 4160시간 월평균 3500건 * 3분 / 60분 = 175시간
+-  업로드 양식 설정하여 지역 배포
+
+Slide 19
+- Ⅲ. KPI_ AI활용 Action A/I
+- 목적 : FCST 정확도 향상 및 SO 변경 최소화를 위한 AI 활용으로 내부 시스템 업무의 생산성 증대          Q1 5%, Q2 10% 의 업무 활용 효과 있을 것으로 기대함.
+- 지역별 대상  고객사 3개씩 선정
+- 선정 고객사 FC 과거 Trend 학습
+- 선정 고객사 FC 과거 Trend 학습
+- 선정 대상 과거 PLC+미래 Trend 학습
+- 지역별 대상 모델  2개씩 선정
+- 선정 대상 과거 PLC Trend 학습
+- 이동 물동 과거 Trend 학습
+- 이동 물동 과거 Trend 학습
+- SCP의 FC vs PO balance 과거 Trend 학습
+- SCP의 FC vs PO balance 과거 Trend 학습
+- 이동 물동 과거 Trend 학습 검증
+- SCP의 FC vs PO balance 과거 Trend 학습 검증
+- 이동 물동 과거 Trend 학습_박성민
+- 지역별 대상  고객사 3개씩 선정 (N/O, KD, DW 외7개)
+- 선정 고객사 FC 과거 Trend 학습
+- IT WEST GT_이용혁
+
+Slide 20
+- Ⅲ. KPI_실적_AI 추진 과제
+
+Slide 21
+- Ⅲ. KPI_실적_AI 추진 과제
+
+Slide 22
+- Ⅲ. KPI_실적_AI 추진 과제
+
+Slide 23
+- Ⅲ. KPI_실적_AI 추진 과제
+
+Slide 24
+- Ⅲ. KPI_실적_AI 추진 과제
+
+Slide 25
+- Ⅲ. KPI_실적_AI 추진 과제
+
+Slide 26
+- Ⅲ. KPI_실적_AI 추진 과제
+
+Slide 27
+- Ⅲ. KPI_실적_AI 추진 과제
+
+Opening PPT: C:\Users\307984\.openclaw\workspace\temp_attachments\AI.pptx
+Opening PPT: C:\Users\307984\.openclaw\workspace\temp_attachments\AI.pptx
+
+Slide 1
+- Ⅲ. KPI_실적_AI 추진 과제
+
+Slide 2
+- Ⅲ. KPI_실적_AI 추진 과제
+
+Slide 3
+- Ⅲ. KPI_실적_AI 추진 과제
+
+Slide 4
+- Ⅲ. KPI_실적_AI 추진 과제
+
+Slide 5
+
+Slide 6
+- Ⅲ. KPI_ AI활용 Action A/I
+- AI와 논의를 통한  업로드 양식 설정
+- 내부 F/B개선점
+- 지역별 고객 List-up
+- CRM현황 학습  TW팀 대표 진행
+- 고객인별 Activity학습  TW팀 대표로 진행
+- 고객인별 Mail성향 학습  TW팀 대표로 진행
+- 고객인별 개인신상 학습  TW팀 대표로 진행
+- 고객인별 개인신상 학습
+- 내부 대상 인력 선정   (진행X)
+- 내부인력 신상 및 성향 학습
+- 내부 메일 발송
+- 내부F/B확인
+- SSC우호적 고객 메일 발송
+- 목적 : 고객에게 발송되는 간단한 메일도 고객 인별,성향 분석을 통한 고객 맞춤형 메일 발송으로 신뢰도 ↑         Q1 0%, Q2 4.2% 업무 개선 효과 있을 것으로 기대함.(월 평균 3,500건 Mail발송)
+- IT WEST GT_이용혁
+- 계산 방법 20명*4주*52시간 = 4160시간 월평균 3500건 * 3분 / 60분 = 175시간
+-  업로드 양식 설정하여 지역 배포
+
+Slide 7
+- Ⅲ. KPI_ AI활용 Action A/I
+- 목적 : FCST 정확도 향상 및 SO 변경 최소화를 위한 AI 활용으로 내부 시스템 업무의 생산성 증대          Q1 5%, Q2 10% 의 업무 활용 효과 있을 것으로 기대함.
+- 지역별 대상  고객사 3개씩 선정
+- 선정 고객사 FC 과거 Trend 학습
+- 선정 고객사 FC 과거 Trend 학습
+- 선정 대상 과거 PLC+미래 Trend 학습
+- 지역별 대상 모델  2개씩 선정
+- 선정 대상 과거 PLC Trend 학습
+- 이동 물동 과거 Trend 학습
+- 이동 물동 과거 Trend 학습
+- SCP의 FC vs PO balance 과거 Trend 학습
+- SCP의 FC vs PO balance 과거 Trend 학습
+- 이동 물동 과거 Trend 학습 검증
+- SCP의 FC vs PO balance 과거 Trend 학습 검증
+- 이동 물동 과거 Trend 학습_박성민
+- 지역별 대상  고객사 3개씩 선정 (N/O, KD, DW 외7개)
+- 선정 고객사 FC 과거 Trend 학습
+- IT WEST GT_이용혁
+
+Slide 8
+- Ⅲ. KPI_실적_AI 추진 과제
+
+Slide 9
+- Ⅲ. KPI_실적_AI 추진 과제
+
+Slide 10
+- Ⅲ. KPI_실적_AI 추진 과제
+
+Slide 11
+- Ⅲ. KPI_실적_AI 추진 과제
+
+Slide 12
+- Ⅲ. KPI_실적_AI 추진 과제
+
+Slide 13
+- Ⅲ. KPI_실적_AI 추진 과제
+
+Slide 14
+- Ⅲ. KPI_실적_AI 추진 과제
+
+Slide 15
+- Ⅲ. KPI_실적_AI 추진 과제

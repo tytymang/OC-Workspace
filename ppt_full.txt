@@ -1,0 +1,133 @@
+﻿Slide 1
+ [Text] Ⅲ. KPI_실적_AI 추진 과제
+ [Text] CS GT_이영주
+ [Table] ITEM | ITEM | PIC | TYPE |  1월  |  1월  |  1월  |  1월  |  1월  |  1월  |  2월  |  2월  |  2월  |  2월  |  2월  |  3월  |  3월  |  3월  |  3월  |  3월  |  3월  | 
+ [Table] 대구분 | 중구분 | PIC | TYPE |  W1  |  W2  |  W3  |  W4  |  W5  | TTL |  W6  |  W7  |  W8  |  W9  | TTL |  W10  |  W11  |  W12  |  W13  |  W14  | TTL | 
+ [Table] 회의록 작성 AI 비서 | AI 엔진별 평가 |   | P |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 
+ [Table] 회의록 작성 AI 비서 | AI 엔진별 평가 |   | D |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 
+ [Table] 회의록 작성 AI 비서 | 화자 분리(Diarization) 구현 |   | P |   |   |   |   |   |   |  |  |  |  |  |   |   |   |   |   |   | 
+ [Table] 회의록 작성 AI 비서 | 화자 분리(Diarization) 구현 |   | D |   |   |   |   |   |   |  |  |  |  |  |   |   |   |   |   |   | 
+ [Table] 회의록 작성 AI 비서 | 회의록 Template |   | P |   |   |   |  |  |  |  |  |   |   |   |   |   |   |   |   |   | 
+ [Table] 회의록 작성 AI 비서 | 회의록 Template |   | D |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 
+ [Table] 회의록 작성 AI 비서 | 문서관리 시스템 연동 및 배포 |   | P |   |   |   |   |   |   |   |   |   |   |  |  |  |  |  |  |  | 
+ [Table] 회의록 작성 AI 비서 | 문서관리 시스템 연동 및 배포 |   | D |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 
+ [Table] AI 불량 원인 추론 (과거 Report 학습통하여)  | 매핑 테이블 (불량 현상/원인/ 귀책) |   | P |   |  |  |  |  |  |  |  |  |  |  |  |   |   |   |   |   | 
+ [Table] AI 불량 원인 추론 (과거 Report 학습통하여)  | 매핑 테이블 (불량 현상/원인/ 귀책) |   | D |   |  |  |  |  |  |  |  |  |  |  |  |   |   |   |   |   | 
+ [Table] AI 불량 원인 추론 (과거 Report 학습통하여)  | AI 모델 튜닝 및 RAG (검색 증강 생성)구축 |   | P |   |  |  |  |  |  |  |  |  |  |  |  |   |   |   |   |   | 
+ [Table] AI 불량 원인 추론 (과거 Report 학습통하여)  | AI 모델 튜닝 및 RAG (검색 증강 생성)구축 |   | D |   |  |  |  |  |  |  |  |  |  |  |  |   |   |   |   |   | 
+ [Table] AI 불량 원인 추론 (과거 Report 학습통하여)  | 시스템 최적화 및 현장 적용 |   | P |   |   |   |   |   |   |   |   |   |   |   |  |  |  |  |  |  | 
+ [Table] AI 불량 원인 추론 (과거 Report 학습통하여)  | 시스템 최적화 및 현장 적용 |   | D |   |   |   |   |   |   |   |   |   |   |   |  |  |  |  |  |  | 
+ [Text] Webex, Tiro, Teams 평가
+ [Text] Webex, 화자 구분 Skill UP
+ [Text] Template 구현 (일자/ 참석자/ 논의사항/ Action) Item)
+ [Text] 연동 및 배포
+ [Text] 불량 유형별, 귀책 ,선정 근거 매핑 
+ [Text] 과거 리포트를 통한 로직 학습
+ [Text] 연동 및 UI 및 실무 적용
+Slide 2
+ [Text] Ⅲ. KPI_실적_AI 추진 과제
+ [Text] CN 1센터_이종국
+Slide 3
+ [Text] Ⅲ. KPI_실적_AI 추진 과제
+ [Text] CN 2 GT_안병길
+Slide 4
+ [Text] Ⅲ. KPI_실적_AI 추진 과제
+ [Text] MD GT_류승열
+Slide 5
+ [Text] LT GT_손중곤
+Slide 6
+ [Text] Ⅲ. KPI_ AI활용 Action A/I
+ [Table] Item | Item | 소구분 | Type | 1월 | 1월 | 1월 | 1월 | 1월 | 1월 |  |  |  |  |  | 3월 | 3월 | 3월 | 3월 | 3월 | 3월 | 
+ [Table] 대구분 | 중구분 | 소구분 | Type | W1 | W2 | W3 | W4 | W5 | TTL | W6 | W7 | W8 | W9 | TTL | W10 | W11 | W12 | W13 | W14 | TTL | 
+ [Table] 고객 발송 메일 작성 | AI학습 | 메일 초안 작성을 위한  Raw Data 설정 | P |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ [Table] 고객 발송 메일 작성 | AI학습 | 메일 초안 작성을 위한  Raw Data 설정 | D |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ [Table] 고객 발송 메일 작성 | AI학습 | CRM현황 학습 | P |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ [Table] 고객 발송 메일 작성 | AI학습 | CRM현황 학습 | D |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ [Table] 고객 발송 메일 작성 | AI학습 | 고객인별  Activity 학습 | P |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ [Table] 고객 발송 메일 작성 | AI학습 | 고객인별  Activity 학습 | D |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ [Table] 고객 발송 메일 작성 | AI학습 | 고객인별  Mail성향 학습 | P |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ [Table] 고객 발송 메일 작성 | AI학습 | 고객인별  Mail성향 학습 | D |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ [Table] 고객 발송 메일 작성 | AI학습 | 고객인별  개인신상 학습 | P |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ [Table] 고객 발송 메일 작성 | AI학습 | 고객인별  개인신상 학습 | D |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ [Table] 고객 발송 메일 작성 | 사내Test | 사내고객 우선  적용 및 F/B접수 | P |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ [Table] 고객 발송 메일 작성 | 사내Test | 사내고객 우선  적용 및 F/B접수 | D |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ [Table] 고객 발송 메일 작성 | 고객 발송 | SSC우호 고객 발송 | P |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ [Table] 고객 발송 메일 작성 | 고객 발송 | SSC우호 고객 발송 | D |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ [Text] AI와 논의를 통한  업로드 양식 설정
+ [Text] 내부 F/B개선점
+ [Text] 지역별 고객 List-up
+ [Text] CRM현황 학습  TW팀 대표 진행
+ [Text] 고객인별 Activity학습  TW팀 대표로 진행
+ [Text] 고객인별 Mail성향 학습  TW팀 대표로 진행
+ [Text] 고객인별 개인신상 학습  TW팀 대표로 진행
+ [Text] 고객인별 개인신상 학습
+ [Text] 내부 대상 인력 선정   (진행X)
+ [Text] 내부인력 신상 및 성향 학습
+ [Text] 내부 메일 발송
+ [Text] 내부F/B확인
+ [Text] SSC우호적 고객 메일 발송
+ [Text] 목적 : 고객에게 발송되는 간단한 메일도 고객 인별,성향 분석을 통한 고객 맞춤형 메일 발송으로 신뢰도 ↑         Q1 0%, Q2 4.2% 업무 개선 효과 있을 것으로 기대함.(월 평균 3,500건 Mail발송) 
+ [Text] IT WEST GT_이용혁
+ [Text] 계산 방법 20명*4주*52시간 = 4160시간 월평균 3500건 * 3분 / 60분 = 175시간 
+ [Text]  업로드 양식 설정하여 지역 배포
+Slide 7
+ [Text] Ⅲ. KPI_ AI활용 Action A/I
+ [Text] 목적 : FCST 정확도 향상 및 SO 변경 최소화를 위한 AI 활용으로 내부 시스템 업무의 생산성 증대          Q1 5%, Q2 10% 의 업무 활용 효과 있을 것으로 기대함.
+ [Table] ITEM | ITEM | 소구분 | TYPE |  1월  |  1월  |  1월  |  1월  |  1월  |  1월  |  2월  |  2월  |  2월  |  2월  |  2월  |  3월  |  3월  |  3월  |  3월  |  3월  |  3월  | 
+ [Table]  대구분  |  중구분  | 소구분 | TYPE |  W1  |  W2  |  W3  |  W4  |  W5  | TTL |  W6  |  W7  |  W8  |  W9  | TTL |  W10  |  W11  |  W12  |  W13  |  W14  | TTL | 
+ [Table] FCST & PO 프로세스 | AI 학습 | 과거 FCST Trend 학습지역별 3개 고객사 선정 | P | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 
+ [Table] FCST & PO 프로세스 | AI 학습 | 과거 FCST Trend 학습지역별 3개 고객사 선정 | D | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 
+ [Table] FCST & PO 프로세스 | AI 학습 | 과거 FCST Trend 학습 (SAP data: 고객 FC + 자체 data) | P | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 
+ [Table] FCST & PO 프로세스 | AI 학습 | 과거 FCST Trend 학습 (SAP data: 고객 FC + 자체 data) | D | 　 | 　 | 　 | 　 | 　 | 　진행중 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 
+ [Table] FCST & PO 프로세스 | AI 학습 | PLC (Product Life Cycle) 분석학습을 위한 지역별 2개 모델(제품 or PJT) 샘플링 선정 | P | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 
+ [Table] FCST & PO 프로세스 | AI 학습 | PLC (Product Life Cycle) 분석학습을 위한 지역별 2개 모델(제품 or PJT) 샘플링 선정 | D | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 
+ [Table] FCST & PO 프로세스 | AI 학습 | PLC 분석을 위한 학습 | P | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 
+ [Table] FCST & PO 프로세스 | AI 학습 | PLC 분석을 위한 학습 | D | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 
+ [Table] FCST & PO 프로세스 | AI 학습 | 이동 물동 과거 Trend 학습 (for LGE) | P | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 
+ [Table] FCST & PO 프로세스 | AI 학습 | 이동 물동 과거 Trend 학습 (for LGE) | D | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 
+ [Table] FCST & PO 프로세스 | AI 학습 | SCP의 FC vs PO balance Trend 학습 (for LGD) | P | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 
+ [Table] FCST & PO 프로세스 | AI 학습 | SCP의 FC vs PO balance Trend 학습 (for LGD) | D | 　 | 　 | 　 | 　 | 　 | 차월 진행  | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 
+ [Table] FCST & PO 프로세스 | Data 검증 | 이동 물동 과거 Trend 학습 검중 (for LGE) | P | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 
+ [Table] FCST & PO 프로세스 | Data 검증 | 이동 물동 과거 Trend 학습 검중 (for LGE) | D | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 
+ [Table] FCST & PO 프로세스 | Data 검증 | SCP의 FC vs PO balance Trend 학습 검증 (for LGD) | P | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 
+ [Table] FCST & PO 프로세스 | Data 검증 | SCP의 FC vs PO balance Trend 학습 검증 (for LGD) | D | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 　 | 
+ [Text] 지역별 대상  고객사 3개씩 선정
+ [Text] 선정 고객사 FC 과거 Trend 학습
+ [Text] 선정 고객사 FC 과거 Trend 학습
+ [Text] 선정 대상 과거 PLC+미래 Trend 학습
+ [Text] 지역별 대상 모델  2개씩 선정
+ [Text] 선정 대상 과거 PLC Trend 학습
+ [Text] 이동 물동 과거 Trend 학습
+ [Text] 이동 물동 과거 Trend 학습
+ [Text] SCP의 FC vs PO balance 과거 Trend 학습
+ [Text] SCP의 FC vs PO balance 과거 Trend 학습
+ [Text] 이동 물동 과거 Trend 학습 검증
+ [Text] SCP의 FC vs PO balance 과거 Trend 학습 검증
+ [Text] 이동 물동 과거 Trend 학습_박성민
+ [Text] 지역별 대상  고객사 3개씩 선정 (N/O, KD, DW 외7개)
+ [Text] 선정 고객사 FC 과거 Trend 학습
+ [Text] IT WEST GT_이용혁
+Slide 8
+ [Text] Ⅲ. KPI_실적_AI 추진 과제
+ [Text] IT EAST GT_안윤순
+Slide 9
+ [Text] Ⅲ. KPI_실적_AI 추진 과제
+ [Text] 재무 GT_신재준
+Slide 10
+ [Text] Ⅲ. KPI_실적_AI 추진 과제
+ [Text] 재무 GT_신재준
+Slide 11
+ [Text] Ⅲ. KPI_실적_AI 추진 과제
+ [Text] VN Support_김성주
+Slide 12
+ [Text] Ⅲ. KPI_실적_AI 추진 과제
+ [Text] VN HR_박상준
+Slide 13
+ [Text] Ⅲ. KPI_실적_AI 추진 과제
+ [Text] VN EPI_최효식
+Slide 14
+ [Text] Ⅲ. KPI_실적_AI 추진 과제
+ [Text] VN 3본부_구일회
+Slide 15
+ [Text] Ⅲ. KPI_실적_AI 추진 과제
+ [Text] VN 3본부_구일회

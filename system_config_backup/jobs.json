@@ -213,7 +213,7 @@
       "name": "Auto-sync Memory to GitHub",
       "enabled": true,
       "createdAtMs": 1772665569602,
-      "updatedAtMs": 1773439432365,
+      "updatedAtMs": 1773446615199,
       "schedule": {
         "everyMs": 3600000,
         "kind": "every",
@@ -229,15 +229,17 @@
         "mode": "none"
       },
       "state": {
-        "nextRunAtMs": 1773443014414,
-        "lastRunAtMs": 1773439414414,
-        "lastStatus": "ok",
-        "lastDurationMs": 17951,
-        "lastRunStatus": "ok",
+        "nextRunAtMs": 1773450214481,
+        "lastRunAtMs": 1773446614481,
+        "lastStatus": "error",
+        "lastDurationMs": 718,
+        "lastRunStatus": "error",
         "lastDeliveryStatus": "not-delivered",
-        "consecutiveErrors": 0,
+        "consecutiveErrors": 2,
         "lastDelivered": false,
-        "runningAtMs": 1773443014432
+        "lastDeliveryError": "LLM error: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Your API key was reported as leaked. Please use another API key.\",\n    \"status\": \"PERMISSION_DENIED\"\n  }\n}",
+        "lastErrorReason": "auth",
+        "runningAtMs": 1773450214490
       }
     }
   ]
