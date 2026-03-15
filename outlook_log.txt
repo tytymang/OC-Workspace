@@ -1,0 +1,23 @@
+﻿**********************
+Windows PowerShell 기록 시작
+시작 시간: 20260316072224
+사용자 이름: SSKEP\308579
+RunAs 사용자: SSKEP\308579
+구성 이름: 
+Machine: NT003765 (Microsoft Windows NT 10.0.19045.0)
+호스트 응용 프로그램: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ExecutionPolicy Bypass -File C:\Users\307984\.openclaw\workspace\scan_v3.ps1
+프로세스 ID: 14564
+PSVersion: 5.1.19041.6456
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.19041.6456
+BuildVersion: 10.0.19041.6456
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+기록이 시작되었습니다. 출력 파일은 C:\Users\307984\.openclaw\workspace\outlook_log.txt입니다.
+**********************
+Windows PowerShell 기록 끝
+종료 시간: 20260316072225
+**********************
