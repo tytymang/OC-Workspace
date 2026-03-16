@@ -213,7 +213,7 @@
       "name": "Auto-sync Memory to GitHub",
       "enabled": true,
       "createdAtMs": 1772665569602,
-      "updatedAtMs": 1773628354323,
+      "updatedAtMs": 1773635551313,
       "schedule": {
         "everyMs": 3600000,
         "kind": "every",
@@ -229,15 +229,17 @@
         "mode": "none"
       },
       "state": {
-        "nextRunAtMs": 1773631947358,
-        "lastRunAtMs": 1773628347358,
-        "lastStatus": "ok",
-        "lastDurationMs": 6965,
-        "lastRunStatus": "ok",
+        "nextRunAtMs": 1773637345318,
+        "lastRunAtMs": 1773633745318,
+        "lastStatus": "error",
+        "lastDurationMs": 1805995,
+        "lastRunStatus": "error",
         "lastDeliveryStatus": "not-delivered",
-        "consecutiveErrors": 0,
+        "consecutiveErrors": 1,
         "lastDelivered": false,
-        "runningAtMs": 1773633745271
+        "lastErrorReason": "timeout",
+        "lastDeliveryError": "Request timed out before a response was generated. Please try again, or increase `agents.defaults.timeoutSeconds` in your config.",
+        "runningAtMs": 1773637345330
       }
     }
   ]
