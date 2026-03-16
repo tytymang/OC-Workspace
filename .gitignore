@@ -1,0 +1,4 @@
+# 환경변수 / API Key 파일 - 절대 커밋 금지
+config/.env
+.env
+*.env
