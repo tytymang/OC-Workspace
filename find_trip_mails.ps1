@@ -9,11 +9,10 @@ try {
     $res = ""
     $count = 0
     foreach ($m in $items) {
-        if ($count -gt 50) { break }
-        if ($m.Subject -like "*Trip.com*" -or $m.SenderName -like "*Trip.com*") {
+        if ($m.Subject -match "Trip.com" -or $m.SenderName -match "Trip.com" -or $m.Body -match "Trip.com") {
             $res += "[$($m.ReceivedTime.ToString('yyyy-MM-dd HH:mm'))] $($m.SenderName): $($m.Subject)`r`n"
+            $res += "BODY_START`r`n$($m.Body)`r`nBODY_END`r`n"
         }
-        $count++
     }
     
     if ($res -eq "") { $res = "Trip.com 관련 메일을 찾을 수 없습니다." }
