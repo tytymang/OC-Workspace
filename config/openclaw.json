@@ -1,13 +1,7 @@
 {
   "meta": {
-    "lastTouchedVersion": "2026.2.6-3",
-    "lastTouchedAt": "2026-03-04T04:51:34.408Z"
-  },
-  "wizard": {
-    "lastRunAt": "2026-02-10T22:41:34.324Z",
-    "lastRunVersion": "2026.2.6-3",
-    "lastRunCommand": "doctor",
-    "lastRunMode": "local"
+    "lastTouchedVersion": "2026.3.13",
+    "lastTouchedAt": "2026-03-16T02:30:00Z"
   },
   "auth": {
     "profiles": {
@@ -41,28 +35,12 @@
       },
       "workspace": "C:\\Users\\307984\\.openclaw\\workspace",
       "compaction": {
-        "mode": "safeguard"
+        "mode": "default"
       },
       "maxConcurrent": 4,
       "subagents": {
         "maxConcurrent": 8
       }
-    }
-  },
-  "messages": {
-    "ackReactionScope": "group-mentions"
-  },
-  "commands": {
-    "native": "auto",
-    "nativeSkills": "auto"
-  },
-  "channels": {
-    "telegram": {
-      "enabled": false,
-      "dmPolicy": "pairing",
-      "botToken": "8562330941:AAEcktKVoVsNdwTFygjVTmdXNe8izAiPNIw",
-      "groupPolicy": "allowlist",
-      "streamMode": "partial"
     }
   },
   "gateway": {
@@ -71,34 +49,15 @@
     "bind": "loopback",
     "controlUi": {
       "allowedOrigins": [
-        "chrome-extension://bfpnaggkihabdgbnhnngdfldkinncdf",
-        "chrome-extension://bfpnaggikhabdgbnhnngdfldkbinncdf",
-        "chrome-extension://nmhbiifsnmhkdofcllgjhlnclnclnlcl",
-        "chrome-extension://capbkkbkaegdongnjjjoekgnmfeppknm"
+        "*"
       ]
     },
     "auth": {
       "mode": "token",
       "token": "a06f59f3e119d52a2b6741bd290f440dc407bcb0931c6345"
-    },
-    "tailscale": {
-      "mode": "off",
-      "resetOnExit": false
     }
   },
   "browser": {
     "enabled": true
-  },
-  "skills": {
-    "install": {
-      "nodeManager": "npm"
-    }
-  },
-  "plugins": {
-    "entries": {
-      "telegram": {
-        "enabled": false
-      }
-    }
   }
 }

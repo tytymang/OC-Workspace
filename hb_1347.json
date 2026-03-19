@@ -1,0 +1,17 @@
+﻿{
+    "Calendar":  [
+
+                 ],
+    "Mails":  [
+                  {
+                      "Sender":  "SSCBPM",
+                      "ReceivedTime":  "2026-03-19 13:41",
+                      "Subject":  "[ - 최종완료(WORK COMPLETE)] (SVC)신우승(Shin  WooSeung) : 2026-03-0327-005 : PFO 담당임원 변경 요청 건"
+                  },
+                  {
+                      "Sender":  "NGUYEN THI THUAN(NGUYEN, THITHUAN/SENIOR ASSOCIATE)",
+                      "ReceivedTime":  "2026-03-19 13:40",
+                      "Subject":  "RE: 대리님 주별 데이터는 언제 다운 받으면 되는지 문의 드립니다 "
+                  }
+              ]
+}
