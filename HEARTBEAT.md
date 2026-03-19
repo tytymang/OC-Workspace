@@ -15,9 +15,9 @@
 - Outlook + Google Calendar 양쪽 확인
 - 발견 시: "주인님, [시간] 뒤에 [일정명] 있습니다"
 
-### 📁 작업 동기화
-- 변경된 파일 GitHub push 상태 확인
-- memory 파일 업데이트 여부 점검
+### ⚙️ BPM 작업 (My Work List)
+- BPM 페이지 접속 및 'My Work List' 신규 건 확인
+- 발견 시: "주인님, 새로운 BPM 작업([작업명])이 도착했습니다."
 
 ## 행동 지침
 - 중요 건 발견 → 윈도우 팝업 알림(System.Windows.Forms.MessageBox) 및 채팅 요약 브리핑
