@@ -213,7 +213,7 @@
       "name": "Auto-sync Memory to GitHub",
       "enabled": true,
       "createdAtMs": 1772665569602,
-      "updatedAtMs": 1773659685535,
+      "updatedAtMs": 1773829794140,
       "schedule": {
         "everyMs": 3600000,
         "kind": "every",
@@ -229,17 +229,15 @@
         "mode": "none"
       },
       "state": {
-        "nextRunAtMs": 1773663269018,
-        "lastRunAtMs": 1773659669018,
-        "lastStatus": "error",
-        "lastDurationMs": 16517,
-        "lastRunStatus": "error",
+        "nextRunAtMs": 1773833379437,
+        "lastRunAtMs": 1773829779437,
+        "lastStatus": "ok",
+        "lastDurationMs": 14703,
+        "lastRunStatus": "ok",
         "lastDeliveryStatus": "not-delivered",
-        "consecutiveErrors": 4,
+        "consecutiveErrors": 0,
         "lastDelivered": false,
-        "lastErrorReason": "rate_limit",
-        "lastDeliveryError": "⚠️ API rate limit reached. Please try again later.",
-        "runningAtMs": 1773829779431
+        "runningAtMs": 1773880930336
       }
     }
   ]
