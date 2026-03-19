@@ -1,0 +1,26 @@
+﻿[
+    {
+        "Sender":  "김종원(kim, JW/선임)",
+        "ReceivedTime":  "2026-03-19 10:04",
+        "IsVIP":  true,
+        "Subject":  "RE: SAP,PFO 2월말 재고비교내역 공유 드립니다."
+    },
+    {
+        "Sender":  "정혁곤(외주용역)",
+        "ReceivedTime":  "2026-03-19 10:00",
+        "IsVIP":  true,
+        "Subject":  "일일 운영서버 Disk 용량 공유(3/19)"
+    },
+    {
+        "Sender":  "S2O_SSC@seoulsemicon.com",
+        "ReceivedTime":  "2026-03-19 09:54",
+        "IsVIP":  true,
+        "Subject":  "S2O Event : [DATABASE-SERVER]Remote Desktop Services: User authentication succeeded:    User: scm  Domain: SSKEP  Source Network Address: 172.16.5.2[EventID=1149][EventSource=Microsoft-Windows-TerminalServices-RemoteConnectionManager]"
+    },
+    {
+        "Sender":  "NGUYEN THI THUAN(NGUYEN, THITHUAN/SENIOR ASSOCIATE)",
+        "ReceivedTime":  "2026-03-19 09:50",
+        "IsVIP":  true,
+        "Subject":  "RE: PFO- SAP Closing 2026.02"
+    }
+]
