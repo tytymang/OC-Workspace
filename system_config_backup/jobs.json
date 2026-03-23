@@ -213,7 +213,7 @@
       "name": "Auto-sync Memory to GitHub",
       "enabled": true,
       "createdAtMs": 1772665569602,
-      "updatedAtMs": 1773899226517,
+      "updatedAtMs": 1774248319565,
       "schedule": {
         "everyMs": 3600000,
         "kind": "every",
@@ -229,15 +229,17 @@
         "mode": "none"
       },
       "state": {
-        "nextRunAtMs": 1773902815919,
-        "lastRunAtMs": 1773899215919,
-        "lastStatus": "ok",
-        "lastDurationMs": 10598,
-        "lastRunStatus": "ok",
+        "nextRunAtMs": 1774251919565,
+        "lastRunAtMs": 1774248318935,
+        "lastStatus": "error",
+        "lastDurationMs": 630,
+        "lastRunStatus": "error",
         "lastDeliveryStatus": "not-delivered",
-        "consecutiveErrors": 0,
+        "consecutiveErrors": 19,
         "lastDelivered": false,
-        "runningAtMs": 1773902815932
+        "lastErrorReason": "auth_permanent",
+        "lastDeliveryError": "LLM error: {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"API key expired. Please renew the API key.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_INVALID\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"generativelanguage.googleapis.com\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n        \"message\": \"API key expired. Please renew the API key.\"\n      }\n    ]\n  }\n}",
+        "runningAtMs": 1774251919574
       }
     }
   ]
