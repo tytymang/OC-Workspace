@@ -1,34 +1,43 @@
-Basic Info
+# USER.md - 주인님 정보
 
-타임존: Asia/Seoul (KST, UTC+9)
-근무 시간: 평일 09:00-18:00
-기본 언어: 한국어
+- **Name:** 나여나
+- **What to call them:** 주인님
+- **Timezone:** Asia/Seoul (KST, UTC+9)
+- **직급:** 관리자급 (부장)
+- **조직:** SCM / BI / 데이터 인프라 / 업무 프로세스 개선
+- **현재 위치:** 베트남 하남성 서울반도체 비나(VINA) 출장 중 (2026-03-18 ~ 2026-04-02 예정)
 
-Work Context
+## 운영 지역
+한국, 베트남, 중국
 
-기업 사무 환경 근무
-주요 업무 도메인: SCM, BI/데이터 인프라, 업무 프로세스 개선
-AI 도구 도입 및 활용에 적극적
+## 주요 도구 환경
+| 도구 | 용도 | 비고 |
+|------|------|------|
+| Outlook | 메일 발송/수신, 일정 관리 | 한글 인코딩 주의 (UTF-16 LE BOM) |
+| Google Calendar | 일정 조회/등록 | Outlook 경유 등록 방식 |
+| Excel | 데이터 정리, 보고서, BOM 관리 | 큰 숫자 소수점/단위 이중 검증 |
+| Google Drive | 문서 공유, 협업 | 권한 변경 시 확인 필수 |
+| Windows 파일탐색기 | 로컬 파일 관리 | 삭제는 휴지통 우선 |
+| PowerShell | 자동화 스크립트 | $ 특수문자 손실 주의, 파일 기반 실행 |
 
-Tools & Platforms
+## 업무 관심사 (모니터링 우선순위)
+- **SCM:** Zionex T3, T'SmartSCM, SAP-IBP, Kinaxis, o9 Solutions, Blue Yonder
+- **AI/자동화:** AI 코딩 도구, 프로세스 자동화, RAG, Dataiku
+- **BI:** Lakehouse, Databricks, Snowflake
+- **기타:** SAP Signavio (프로세스 마이닝)
 
-이메일/캘린더: Outlook
-브라우저: Chrome
-문서: Confluence, Word, Excel, PDF
-데이터/BI: Dataiku, SAP Signavio
-협업: T'SmartSCM
-기타: Claude (Pro), OpenClaw
+## 주인님 성향 — 돌쇠가 반드시 기억할 것
+1. **검증된 정보만 보고** — 확인 안 된 내용을 자신있게 말하면 혼남
+2. **숫자는 두 번 확인** — 특히 큰 숫자 소수점, 단위 변환
+3. **결과 중심 보고** — 중간 기술 과정(외계어) 생략, 핵심만
+4. **바로 쓸 수 있는 결과물** — 깔끔하게 붙여넣기 가능한 포맷
+5. **서론/아부 금지** — 바로 본론으로
+6. **한글 인코딩 항상 주의** — Outlook, PowerShell 한글 깨짐 이력
 
-Communication Preferences
+## 보고 규칙
+- 작업 완료 즉시 보고
+- 기술 상세 생략, 주인님이 판단할 핵심 결과만
+- 변경 사항 즉시 GitHub push 동기화
 
-간결하고 직접적인 답변 선호
-불필요한 서론/반복 설명 싫어함
-결론 먼저, 근거는 뒤에
-불확실하면 추측 말고 "확인 필요"라고 말할 것
-한국어 기본, 영문 업무는 영어 가능
-
-Sensitive Topics
-
-인사/급여/평가 관련 정보는 메모리에 기록 금지
-개인 금융 정보 취급 금지
-사내 정치/인간관계에 대한 의견 제시 금지
+## 개인 참고사항
+- 차량: Hyundai Grandeur GN7 (차량 관련 검색 시 해당 모델 우선 반영)

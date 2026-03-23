@@ -5,10 +5,10 @@
       "id": "3e351cee-2de9-4b19-9f32-09d6749b3776",
       "agentId": "main",
       "name": "토요일 출근 전날 알림 (3/14)",
-      "enabled": true,
+      "enabled": false,
       "deleteAfterRun": true,
       "createdAtMs": 1771826360791,
-      "updatedAtMs": 1771826360791,
+      "updatedAtMs": 1773439475045,
       "schedule": {
         "at": "2026-03-13T14:00:00.000Z",
         "kind": "at"
@@ -23,7 +23,13 @@
         "mode": "announce"
       },
       "state": {
-        "nextRunAtMs": 1773410400000
+        "lastRunAtMs": 1773439432365,
+        "lastRunStatus": "error",
+        "lastStatus": "error",
+        "lastDurationMs": 42680,
+        "lastError": "Channel is required (no configured channels detected). Set delivery.channel explicitly or use a main session with a previous channel.",
+        "lastDeliveryStatus": "unknown",
+        "consecutiveErrors": 1
       }
     },
     {
@@ -207,7 +213,7 @@
       "name": "Auto-sync Memory to GitHub",
       "enabled": true,
       "createdAtMs": 1772665569602,
-      "updatedAtMs": 1773356502340,
+      "updatedAtMs": 1774262720948,
       "schedule": {
         "everyMs": 3600000,
         "kind": "every",
@@ -223,15 +229,17 @@
         "mode": "none"
       },
       "state": {
-        "nextRunAtMs": 1773360089863,
-        "lastRunAtMs": 1773356489863,
-        "lastStatus": "ok",
-        "lastDurationMs": 12477,
-        "lastRunStatus": "ok",
+        "nextRunAtMs": 1774266319630,
+        "lastRunAtMs": 1774262719630,
+        "lastStatus": "error",
+        "lastDurationMs": 1318,
+        "lastRunStatus": "error",
         "lastDeliveryStatus": "not-delivered",
-        "consecutiveErrors": 0,
+        "consecutiveErrors": 3,
         "lastDelivered": false,
-        "runningAtMs": 1773360089869
+        "lastErrorReason": "auth",
+        "lastDeliveryError": "LLM error: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Your API key was reported as leaked. Please use another API key.\",\n    \"status\": \"PERMISSION_DENIED\"\n  }\n}",
+        "runningAtMs": 1774266319645
       }
     }
   ]

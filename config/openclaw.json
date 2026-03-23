@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastTouchedVersion": "2026.3.12",
-    "lastTouchedAt": "2026-03-13T18:16:14Z"
+    "lastTouchedVersion": "2026.3.13",
+    "lastTouchedAt": "2026-03-16T02:30:00Z"
   },
   "auth": {
     "profiles": {
@@ -35,7 +35,7 @@
       },
       "workspace": "C:\\Users\\307984\\.openclaw\\workspace",
       "compaction": {
-        "mode": "safeguard"
+        "mode": "default"
       },
       "maxConcurrent": 4,
       "subagents": {
