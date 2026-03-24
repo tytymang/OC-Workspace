@@ -12,7 +12,9 @@
     "scopes": [
       "operator.admin",
       "operator.approvals",
-      "operator.pairing"
+      "operator.pairing",
+      "operator.read",
+      "operator.write"
     ],
     "approvedScopes": [
       "operator.admin",
@@ -29,7 +31,7 @@
           "operator.pairing"
         ],
         "createdAtMs": 1773377445136,
-        "lastUsedAtMs": 1774312861033
+        "lastUsedAtMs": 1774315360239
       }
     },
     "createdAtMs": 1773377445136,
@@ -46,24 +48,36 @@
       "operator"
     ],
     "scopes": [
-      "operator.read"
+      "operator.read",
+      "operator.admin",
+      "operator.write",
+      "operator.approvals",
+      "operator.pairing"
     ],
     "approvedScopes": [
-      "operator.read"
+      "operator.read",
+      "operator.admin",
+      "operator.write",
+      "operator.approvals",
+      "operator.pairing"
     ],
     "tokens": {
       "operator": {
-        "token": "3QVHw5A59m-Cb3Rfhh43v0YnXpoxi8kePRtlVf6yAqM",
+        "token": "83XFFFZGGuzjnIllnprxOqNe44DtCE_E8ceTJRhwg3Q",
         "role": "operator",
         "scopes": [
-          "operator.read"
+          "operator.admin",
+          "operator.approvals",
+          "operator.pairing",
+          "operator.read",
+          "operator.write"
         ],
         "createdAtMs": 1773385536886,
-        "rotatedAtMs": 1773388401306
+        "rotatedAtMs": 1774314626437
       }
     },
     "createdAtMs": 1773385536886,
-    "approvedAtMs": 1773385536886
+    "approvedAtMs": 1774314626437
   },
   "06f9522452fc3ea5821bde309cbcb8a3077d10da726a66d2dc24413d9e27fc2a": {
     "deviceId": "06f9522452fc3ea5821bde309cbcb8a3077d10da726a66d2dc24413d9e27fc2a",
