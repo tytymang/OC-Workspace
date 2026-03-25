@@ -1,7 +1,17 @@
 {
   "meta": {
-    "lastTouchedVersion": "2026.3.13",
-    "lastTouchedAt": "2026-03-16T02:30:00Z"
+    "lastTouchedVersion": "2026.3.23",
+    "lastTouchedAt": "2026-03-25T06:29:01.684Z"
+  },
+  "browser": {
+    "enabled": true,
+    "executablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "profiles": {
+      "user": {
+        "cdpPort": 9222,
+        "color": "#00AA00"
+      }
+    }
   },
   "auth": {
     "profiles": {
@@ -43,6 +53,12 @@
       }
     }
   },
+  "commands": {
+    "native": "auto",
+    "nativeSkills": "auto",
+    "restart": true,
+    "ownerDisplay": "raw"
+  },
   "gateway": {
     "port": 18792,
     "mode": "local",
@@ -50,14 +66,12 @@
     "controlUi": {
       "allowedOrigins": [
         "*"
-      ]
+      ],
+      "dangerouslyDisableDeviceAuth": false
     },
     "auth": {
       "mode": "token",
       "token": "a06f59f3e119d52a2b6741bd290f440dc407bcb0931c6345"
     }
-  },
-  "browser": {
-    "enabled": true
   }
 }
