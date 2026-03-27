@@ -1,0 +1,307 @@
+﻿[
+    {
+        "Name":  "신재준",
+        "ID":  "300692",
+        "Team":  "SSC 재무"
+    },
+    {
+        "Name":  "공지우",
+        "ID":  "308280",
+        "Team":  ""
+    },
+    {
+        "Name":  "김지혜",
+        "ID":  "301254",
+        "Team":  ""
+    },
+    {
+        "Name":  "박은숙",
+        "ID":  "308282",
+        "Team":  ""
+    },
+    {
+        "Name":  "김희진",
+        "ID":  "308568",
+        "Team":  ""
+    },
+    {
+        "Name":  "김흥곤",
+        "ID":  "405750",
+        "Team":  "SVC 재무"
+    },
+    {
+        "Name":  "엄태근",
+        "ID":  "405058",
+        "Team":  ""
+    },
+    {
+        "Name":  "이화",
+        "ID":  "405512",
+        "Team":  ""
+    },
+    {
+        "Name":  "최지애",
+        "ID":  "405059",
+        "Team":  ""
+    },
+    {
+        "Name":  "박세규",
+        "ID":  "308469",
+        "Team":  "SSV Finance"
+    },
+    {
+        "Name":  "ĐỖ HỮU CẦM",
+        "ID":  "703976",
+        "Team":  ""
+    },
+    {
+        "Name":  "TRƯƠNG LỆ QUYÊN",
+        "ID":  "700182",
+        "Team":  ""
+    },
+    {
+        "Name":  "ĐỖ THỊ PHƯỢNG",
+        "ID":  "708739",
+        "Team":  ""
+    },
+    {
+        "Name":  "LƯU NGỌC MAI",
+        "ID":  "709417",
+        "Team":  ""
+    },
+    {
+        "Name":  "NGUYỄN THỊ HÒA",
+        "ID":  "705350",
+        "Team":  ""
+    },
+    {
+        "Name":  "NGÔ THỊ PHƯƠNG ANH",
+        "ID":  "706717",
+        "Team":  ""
+    },
+    {
+        "Name":  "NGÔ THỊ KIM LIÊN",
+        "ID":  "701823",
+        "Team":  ""
+    },
+    {
+        "Name":  "PHÙNG TẤN HÙNG",
+        "ID":  "705435",
+        "Team":  ""
+    },
+    {
+        "Name":  "NGUYỄN THỊ THU TRANG",
+        "ID":  "709102",
+        "Team":  ""
+    },
+    {
+        "Name":  "NGUYỄN THỊ HOA",
+        "ID":  "707604",
+        "Team":  ""
+    },
+    {
+        "Name":  "KIEU THI DUNG KIEU",
+        "ID":  "707319",
+        "Team":  ""
+    },
+    {
+        "Name":  "정진섭",
+        "ID":  "306721",
+        "Team":  "SSC AR"
+    },
+    {
+        "Name":  "장기연",
+        "ID":  "308144",
+        "Team":  ""
+    },
+    {
+        "Name":  "이태형",
+        "ID":  "406003",
+        "Team":  ""
+    },
+    {
+        "Name":  "지상일",
+        "ID":  "308487",
+        "Team":  "CN"
+    },
+    {
+        "Name":  "송효봉",
+        "ID":  "308495",
+        "Team":  ""
+    },
+    {
+        "Name":  "김용태",
+        "ID":  "405085",
+        "Team":  ""
+    },
+    {
+        "Name":  "김성광",
+        "ID":  "307004",
+        "Team":  ""
+    },
+    {
+        "Name":  "이상필",
+        "ID":  "706067",
+        "Team":  "H.L R\u0026D GT"
+    },
+    {
+        "Name":  "Pham Thanh Trung",
+        "ID":  "700056",
+        "Team":  "IT PKG EQP GT"
+    },
+    {
+        "Name":  "Vu Van Truong",
+        "ID":  "703343",
+        "Team":  ""
+    },
+    {
+        "Name":  "Hoang Van Chien",
+        "ID":  "703874",
+        "Team":  ""
+    },
+    {
+        "Name":  "Tran Thi lieu",
+        "ID":  "708717",
+        "Team":  ""
+    },
+    {
+        "Name":  "Bui Quang Huy",
+        "ID":  "702621",
+        "Team":  ""
+    },
+    {
+        "Name":  "Dao Van Thanh",
+        "ID":  "700085",
+        "Team":  ""
+    },
+    {
+        "Name":  "Pham Quang Linh",
+        "ID":  "709037",
+        "Team":  ""
+    },
+    {
+        "Name":  "Truong Van Hieu",
+        "ID":  "706876",
+        "Team":  "IT Chip R\u0026D GT"
+    },
+    {
+        "Name":  "Bui Manh Khuong",
+        "ID":  "703019",
+        "Team":  ""
+    },
+    {
+        "Name":  "김해유",
+        "ID":  "405977",
+        "Team":  ""
+    },
+    {
+        "Name":  "Pham Thi Hai",
+        "ID":  "708669",
+        "Team":  ""
+    },
+    {
+        "Name":  "Pham Van Lang",
+        "ID":  "709099",
+        "Team":  ""
+    },
+    {
+        "Name":  "Pham Cong Thang",
+        "ID":  "709866",
+        "Team":  ""
+    },
+    {
+        "Name":  "Phan Thi Hong Hanh",
+        "ID":  "705998",
+        "Team":  ""
+    },
+    {
+        "Name":  "Pham Van Vinh",
+        "ID":  "709729",
+        "Team":  ""
+    },
+    {
+        "Name":  "Le Thuy Duong",
+        "ID":  "709529",
+        "Team":  ""
+    },
+    {
+        "Name":  "구교훈",
+        "ID":  "307420",
+        "Team":  "IT PKG GT"
+    },
+    {
+        "Name":  "김정곤",
+        "ID":  "306732",
+        "Team":  "품질 GT"
+    },
+    {
+        "Name":  "김경우",
+        "ID":  "308406",
+        "Team":  "IT GSM"
+    },
+    {
+        "Name":  "Bui Van Trung",
+        "ID":  "706080",
+        "Team":  "IT MOD EQP GT"
+    },
+    {
+        "Name":  "Nguyen Thi Thu Huyen",
+        "ID":  "706989",
+        "Team":  ""
+    },
+    {
+        "Name":  "Hoang Manh Tien",
+        "ID":  "705047",
+        "Team":  ""
+    },
+    {
+        "Name":  "Duong Van Doan",
+        "ID":  "704824",
+        "Team":  ""
+    },
+    {
+        "Name":  "Tran Dang Hai",
+        "ID":  "707672",
+        "Team":  ""
+    },
+    {
+        "Name":  "Dam Quang Tuyen",
+        "ID":  "707588",
+        "Team":  ""
+    },
+    {
+        "Name":  "Luong Tuan Long",
+        "ID":  "700031",
+        "Team":  "IT Process Tech GT"
+    },
+    {
+        "Name":  "Nguyen Van Tung",
+        "ID":  "700945",
+        "Team":  ""
+    },
+    {
+        "Name":  "Nguyen Ly Huynh",
+        "ID":  "700301",
+        "Team":  ""
+    },
+    {
+        "Name":  "Vu Tuan Anh",
+        "ID":  "700296",
+        "Team":  "IT FAB EQP GT"
+    },
+    {
+        "Name":  "Dinh Van Chien",
+        "ID":  "700806",
+        "Team":  ""
+    },
+    {
+        "Name":  "윤남호",
+        "ID":  "406011",
+        "Team":  "H.L MD EQP GT"
+    },
+    {
+        "Name":  "최명균",
+        "ID":  "405298",
+        "Team":  "AM Chip R\u0026D CT"
+    }
+]
