@@ -1,0 +1,38 @@
+﻿{
+    "vipEmails":  [
+
+                  ],
+    "recentEmailsCount":  3,
+    "upcomingEvents":  [
+
+                       ],
+    "gitStatus":  [
+                      " D ad.json",
+                      " D ad.ps1",
+                      " D ad2.ps1",
+                      " D ad_result.txt",
+                      " D all_unread.txt",
+                      " D check_att.py",
+                      " D email_0.html",
+                      " D email_1.html",
+                      " D email_1_text.txt",
+                      " D emails_python.json",
+                      " D emails_python2.json",
+                      " D existing_ids.json",
+                      " D get_emails.ps1",
+                      " D get_emails.py",
+                      " D list_all_unread.py",
+                      " D list_unread.py",
+                      " D parse_html.py",
+                      " D parse_html1.py",
+                      " D read_email1.py",
+                      " D read_vp_email.py",
+                      " D save_att.py",
+                      " D save_html.py",
+                      " D table_0.json",
+                      " D table_1.json",
+                      " D temp_emails.json",
+                      " D vp_email_text.txt",
+                      "?? \"document/\\352\\265\\220\\354\\234\\241_20260401/~$\\354\\260\\270\\354\\204\\235\\354\\236\\220 \\353\\252\\205\\353\\213\\250_20260327.xlsx\""
+                  ]
+}
